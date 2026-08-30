@@ -1,0 +1,12 @@
+{
+  "type": "LangLiveSpecialSkillLevel_Jpn",
+  "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+  "rawPath": "LangLiveSpecialSkillLevel_Jpn/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+  "fileSize": 12288,
+  "rawSha256": "b754685bc2aaa7a0119f2e36737bcf7253ebcce9c42680822bfcb450b26d82d1",
+  "rowCount": 0,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangLiveSpecialSkillLevel_Jpn.jsonl"
+}

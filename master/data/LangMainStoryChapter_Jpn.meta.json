@@ -1,0 +1,12 @@
+{
+  "type": "LangMainStoryChapter_Jpn",
+  "fileName": "e43a393c014ddeed37790799c5a2528755b09194d71e2c7505570c8dea368ca6",
+  "rawPath": "e43a393c014ddeed37790799c5a2528755b09194d71e2c7505570c8dea368ca6",
+  "fileSize": 12288,
+  "rawSha256": "4a0f26e0fa1eabe6c11c916fa06f933eeb18e9e4841bed768aa2669b23653a7f",
+  "rowCount": 4,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangMainStoryChapter_Jpn.jsonl"
+}

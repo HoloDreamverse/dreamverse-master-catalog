@@ -1,0 +1,12 @@
+{
+  "type": "LangPoster_Jpn",
+  "fileName": "686ebac2db9a0734a51aeba7da9690f2ebba34a8e22c1fe25585802d226104b0",
+  "rawPath": "686ebac2db9a0734a51aeba7da9690f2ebba34a8e22c1fe25585802d226104b0",
+  "fileSize": 12288,
+  "rawSha256": "9aa2de23ddbe8d6857ec30d59762837b4b2262dde4f55c970bcf3513e4571bc7",
+  "rowCount": 29,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangPoster_Jpn.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "LangSdCostumeHairAccessory_Jpn",
+  "fileName": "ef37baccf4dda00de64a181224929ba1d771c443c1f40fadef123853ca9465c3",
+  "rawPath": "ef37baccf4dda00de64a181224929ba1d771c443c1f40fadef123853ca9465c3",
+  "fileSize": 69632,
+  "rawSha256": "6fcca40233b799bd544b49c7439c57530d4a9814d0e19bea1d8859113bfed7bc",
+  "rowCount": 270,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangSdCostumeHairAccessory_Jpn.jsonl"
+}

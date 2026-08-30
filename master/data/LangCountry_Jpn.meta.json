@@ -1,0 +1,12 @@
+{
+  "type": "LangCountry_Jpn",
+  "fileName": "e151766d5c8077e410b4756c9047431ecfec486a007ee1a37c440cb7e9d6f765",
+  "rawPath": "e151766d5c8077e410b4756c9047431ecfec486a007ee1a37c440cb7e9d6f765",
+  "fileSize": 20480,
+  "rawSha256": "bfa704432ab354df3c6f499fba6be11c3af4307c2ed4910415f78c280c90828a",
+  "rowCount": 83,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangCountry_Jpn.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "LangLiveSoundEffect_Jpn",
+  "fileName": "bd5a42d0dea9f98c80894c4f08dd086a70309ebe6da180af5d4a4225d81e0492",
+  "rawPath": "bd5a42d0dea9f98c80894c4f08dd086a70309ebe6da180af5d4a4225d81e0492",
+  "fileSize": 12288,
+  "rawSha256": "82e715d1546b0b3232902c7e44f2977d51e51d9d24e887f41f59c807c9205ade",
+  "rowCount": 4,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangLiveSoundEffect_Jpn.jsonl"
+}

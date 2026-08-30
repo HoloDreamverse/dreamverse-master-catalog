@@ -1,0 +1,12 @@
+{
+  "type": "LangAchievementCategory_Jpn",
+  "fileName": "cf0dca886edd6b47eb3011d4acb61ae7f14bf326f6a3e1ef5bb7c8c67b969e5a",
+  "rawPath": "cf0dca886edd6b47eb3011d4acb61ae7f14bf326f6a3e1ef5bb7c8c67b969e5a",
+  "fileSize": 12288,
+  "rawSha256": "421ea36e297591f6cd795e298700b05af376aa5bba15c1c9731ab7ef69badf48",
+  "rowCount": 6,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangAchievementCategory_Jpn.jsonl"
+}

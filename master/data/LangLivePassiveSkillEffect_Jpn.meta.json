@@ -1,0 +1,12 @@
+{
+  "type": "LangLivePassiveSkillEffect_Jpn",
+  "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+  "rawPath": "LangLivePassiveSkillEffect_Jpn/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+  "fileSize": 12288,
+  "rawSha256": "66bb31f6b28ea26647f7b117bca1d55227bfdc33099fb76db36e944553dfd182",
+  "rowCount": 0,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangLivePassiveSkillEffect_Jpn.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "LangCircuit_Jpn",
+  "fileName": "8305f60adf3af7b34ec55d8534c09bea8a295eb8af44256ee7b55a526b2bc477",
+  "rawPath": "8305f60adf3af7b34ec55d8534c09bea8a295eb8af44256ee7b55a526b2bc477",
+  "fileSize": 12288,
+  "rawSha256": "e2d1867df3ce714718491a7fe4ccd88c71e6d6b5900d7233053367def9c9cbdd",
+  "rowCount": 6,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangCircuit_Jpn.jsonl"
+}

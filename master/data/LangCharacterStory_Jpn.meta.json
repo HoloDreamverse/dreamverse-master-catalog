@@ -1,0 +1,12 @@
+{
+  "type": "LangCharacterStory_Jpn",
+  "fileName": "3ba92c74b4b8a28e6c4938ecf1b1a758449c34aa3e1b0fdfe43da7f8c4f06398",
+  "rawPath": "3ba92c74b4b8a28e6c4938ecf1b1a758449c34aa3e1b0fdfe43da7f8c4f06398",
+  "fileSize": 20480,
+  "rawSha256": "1245b5958d3c9a717ba525c8b87072f394ba5a70f7765fd16f1caf4f4125eb20",
+  "rowCount": 59,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangCharacterStory_Jpn.jsonl"
+}

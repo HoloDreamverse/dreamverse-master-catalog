@@ -1,0 +1,12 @@
+{
+  "type": "LangMusicCreativeChartTag_Jpn",
+  "fileName": "101e685b6ea9ebc51ba4b8542be2cadbbe595efe4f6fdbddc9a550032de9a8df",
+  "rawPath": "101e685b6ea9ebc51ba4b8542be2cadbbe595efe4f6fdbddc9a550032de9a8df",
+  "fileSize": 12288,
+  "rawSha256": "21b17502e344c63ea3692bd4e4a266b4a07cb25c69e0fe19da95ca0ff5c1fb14",
+  "rowCount": 7,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangMusicCreativeChartTag_Jpn.jsonl"
+}

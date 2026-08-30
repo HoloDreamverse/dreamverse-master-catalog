@@ -1,0 +1,12 @@
+{
+  "type": "LangGeneratedLiveActiveSkillLevel_Jpn",
+  "fileName": "1714c61c8fab8645b7df778deb928db67e4cfeb3e15687edb29d5d43402099e9",
+  "rawPath": "1714c61c8fab8645b7df778deb928db67e4cfeb3e15687edb29d5d43402099e9",
+  "fileSize": 139264,
+  "rawSha256": "33dc1dde872812721df6b143e016c41c398c57007a04182e474785213e3c32d7",
+  "rowCount": 359,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangGeneratedLiveActiveSkillLevel_Jpn.jsonl"
+}

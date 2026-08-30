@@ -1,0 +1,12 @@
+{
+  "type": "LangParkQuestStep_Jpn",
+  "fileName": "cc4d5abab23979b86064b0363fdfef4b61803b315f10f10f0668e3ac6115119d",
+  "rawPath": "cc4d5abab23979b86064b0363fdfef4b61803b315f10f10f0668e3ac6115119d",
+  "fileSize": 163840,
+  "rawSha256": "bf88d832b827d43caebc2c389264e84113fdd6ae26fcfba8b6ff27fc1a01cf64",
+  "rowCount": 768,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangParkQuestStep_Jpn.jsonl"
+}

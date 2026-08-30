@@ -1,0 +1,12 @@
+{
+  "type": "LangSemiResourceTypeDetail_Jpn",
+  "fileName": "1c6085aa92d27c77a342c7fd035cd5fbd5a5cd9408812d8034dbb67404ad71bc",
+  "rawPath": "1c6085aa92d27c77a342c7fd035cd5fbd5a5cd9408812d8034dbb67404ad71bc",
+  "fileSize": 12288,
+  "rawSha256": "2b961cded1c39230b968b3343454e8a091a3c41679ebb45fe9bfd1992680bb74",
+  "rowCount": 6,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangSemiResourceTypeDetail_Jpn.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "LangAppealText_Jpn",
+  "fileName": "437cd3497bcbcb9b9ea36f26c44e81977b7a77decdc4f44bd89266f03718cc94",
+  "rawPath": "437cd3497bcbcb9b9ea36f26c44e81977b7a77decdc4f44bd89266f03718cc94",
+  "fileSize": 20480,
+  "rawSha256": "feb641b7f64ef1e93c74c6beba863c6f81b5b070286e50bcf9b9f4a57aeef062",
+  "rowCount": 32,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangAppealText_Jpn.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "LangSkillTreeEffectPassiveTrigger_Jpn",
+  "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+  "rawPath": "LangSkillTreeEffectPassiveTrigger_Jpn/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+  "fileSize": 12288,
+  "rawSha256": "a0dddc22d036b16db571c26571957f8f300cf1b47b8a2327897b228aad9a3390",
+  "rowCount": 0,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangSkillTreeEffectPassiveTrigger_Jpn.jsonl"
+}

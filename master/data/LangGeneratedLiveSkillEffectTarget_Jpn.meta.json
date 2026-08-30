@@ -1,0 +1,12 @@
+{
+  "type": "LangGeneratedLiveSkillEffectTarget_Jpn",
+  "fileName": "2398df88090ec49f19e43925ccc5ceb2a61a872b24b2aeb33792091ae7c38ba7",
+  "rawPath": "2398df88090ec49f19e43925ccc5ceb2a61a872b24b2aeb33792091ae7c38ba7",
+  "fileSize": 40960,
+  "rawSha256": "d6413745a7986852dc3c2aa22282cc2ccf19880495426107bd604e6422ee876b",
+  "rowCount": 83,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangGeneratedLiveSkillEffectTarget_Jpn.jsonl"
+}

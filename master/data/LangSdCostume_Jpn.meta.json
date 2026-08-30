@@ -1,0 +1,12 @@
+{
+  "type": "LangSdCostume_Jpn",
+  "fileName": "c09d84fb32ca91c571025bc7753ac48a5a765e3a59ddf2b235a5cf6fc1fb7fe8",
+  "rawPath": "c09d84fb32ca91c571025bc7753ac48a5a765e3a59ddf2b235a5cf6fc1fb7fe8",
+  "fileSize": 53248,
+  "rawSha256": "deb87bed5c14bb40c94424fd2be23cdda4acd1508a7d25a1c54e20fe064e5fa6",
+  "rowCount": 294,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangSdCostume_Jpn.jsonl"
+}

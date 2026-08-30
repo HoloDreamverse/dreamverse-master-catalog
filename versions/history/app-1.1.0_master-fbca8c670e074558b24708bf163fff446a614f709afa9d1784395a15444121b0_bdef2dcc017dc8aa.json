@@ -1,0 +1,37 @@
+{
+  "appVersion": "1.1.0",
+  "artifacts": [
+    {
+      "path": "master/data/Area.jsonl",
+      "sha256": "c5c87e5a1b415f3ff9af172ecb9bc6ff72586751fb07322b86a5f7d97f9f32b6"
+    },
+    {
+      "path": "master/data/Area.meta.json",
+      "sha256": "f2cfd6fc2468e13ad3167691aa3584f31a388d59857a861d613d441a32b9c952"
+    },
+    {
+      "path": "master/export-manifest.json",
+      "sha256": "2ffce847b176b98bbd931af2778edbd473b8b4610ac6bef5311eafaf02006573"
+    },
+    {
+      "path": "master/manifest.redacted.json",
+      "sha256": "51ae3276df48db464b1d87038fd06c368d7039ac257e05d3fddc61ad6aab68eb"
+    }
+  ],
+  "catalogs": [],
+  "master": {
+    "exportedPacks": [
+      {
+        "output": "data/Area.jsonl",
+        "rawSha256": "b2444d1f3387d018e883d760dd65a2b775c0291d5fc8d45405ae6e41ed3835d5",
+        "rowCount": 8,
+        "schemaFound": true,
+        "type": "Area"
+      }
+    ],
+    "region": "jp",
+    "version": "fbca8c670e074558b24708bf163fff446a614f709afa9d1784395a15444121b0"
+  },
+  "publishedAt": "2026-08-30T23:09:54+00:00",
+  "schemaVersion": 1
+}

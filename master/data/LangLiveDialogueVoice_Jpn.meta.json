@@ -1,0 +1,12 @@
+{
+  "type": "LangLiveDialogueVoice_Jpn",
+  "fileName": "8ca5b551fc9946c3d9130ce0e7bdfe3914873927cece997c13ec8c43d76c1e5a",
+  "rawPath": "8ca5b551fc9946c3d9130ce0e7bdfe3914873927cece997c13ec8c43d76c1e5a",
+  "fileSize": 749568,
+  "rawSha256": "6181882e9658cdd1412816df7a6f509e93d35e3b92cd8e517dc77636bf4035a1",
+  "rowCount": 3302,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangLiveDialogueVoice_Jpn.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "LangParkEmotion_Jpn",
+  "fileName": "54977368b28c806e87c9fc0f9b808c83e0b6429ee5a4737f199ec61f4e51643c",
+  "rawPath": "54977368b28c806e87c9fc0f9b808c83e0b6429ee5a4737f199ec61f4e51643c",
+  "fileSize": 139264,
+  "rawSha256": "287bfc40f839feea782b33d31cea4357abb641905b80e1e5fd4caa1f055ed6a1",
+  "rowCount": 918,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangParkEmotion_Jpn.jsonl"
+}

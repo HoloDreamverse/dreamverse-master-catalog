@@ -1,0 +1,12 @@
+{
+  "type": "LangAssetEmbeddingText_Jpn",
+  "fileName": "1e999826e857dd7d9d9529d74113bc46da36a59933a420c416e9ed33e94aa013",
+  "rawPath": "1e999826e857dd7d9d9529d74113bc46da36a59933a420c416e9ed33e94aa013",
+  "fileSize": 24576,
+  "rawSha256": "40ca61c6abcdaf61407f2da19871dd7bcf296e16335615cd850d18218dc99abb",
+  "rowCount": 62,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangAssetEmbeddingText_Jpn.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "LangChasePatrolSkill_Jpn",
+  "fileName": "cfbf3a4b33c82f415195f9e62a36021348737d2bcb39d482c3430e8fbd5c936b",
+  "rawPath": "cfbf3a4b33c82f415195f9e62a36021348737d2bcb39d482c3430e8fbd5c936b",
+  "fileSize": 12288,
+  "rawSha256": "9793c0a2f264981ab9d54798c3da8daa72be9245f8de35584ce89b9fc4327ae5",
+  "rowCount": 4,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangChasePatrolSkill_Jpn.jsonl"
+}

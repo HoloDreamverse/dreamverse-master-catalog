@@ -1,0 +1,12 @@
+{
+  "type": "LangGeneratedSkillTreeEffectPassiveTrigger_Jpn",
+  "fileName": "b62650342bfe22cd63551263d6f7d35a296c58cb15223fba44f8c8d7bd6642f2",
+  "rawPath": "b62650342bfe22cd63551263d6f7d35a296c58cb15223fba44f8c8d7bd6642f2",
+  "fileSize": 45056,
+  "rawSha256": "74b075c9021fa5e69a2fc6a0d36eb1edb431bd8f7f09f4776a03b7088c47d589",
+  "rowCount": 81,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangGeneratedSkillTreeEffectPassiveTrigger_Jpn.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "LangGachaPoint_Jpn",
+  "fileName": "0e73b4a900ee8e7a45118bbaf3066a1077aadf3bf1589a7182bb8214ea78ce54",
+  "rawPath": "0e73b4a900ee8e7a45118bbaf3066a1077aadf3bf1589a7182bb8214ea78ce54",
+  "fileSize": 12288,
+  "rawSha256": "deb3b211c6a45070479b720ec96085e6f9b8501271202d5e231b6fae86e6bd42",
+  "rowCount": 6,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangGachaPoint_Jpn.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "LangMusicMv_Jpn",
+  "fileName": "28f213d9aaf24ca4c2504876038f2ffba22e8759d4898527a36be45e188db7e8",
+  "rawPath": "28f213d9aaf24ca4c2504876038f2ffba22e8759d4898527a36be45e188db7e8",
+  "fileSize": 32768,
+  "rawSha256": "d52c6cd3bddae57adc97b33344105f0aa21585c7cabb369cfb6d26f9770f82e0",
+  "rowCount": 145,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangMusicMv_Jpn.jsonl"
+}

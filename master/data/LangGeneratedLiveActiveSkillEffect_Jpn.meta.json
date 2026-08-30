@@ -1,0 +1,12 @@
+{
+  "type": "LangGeneratedLiveActiveSkillEffect_Jpn",
+  "fileName": "a09c74b05e22736023c73a7586706981f92ceb16ba2d9cf564f4e33ac7d6f7f1",
+  "rawPath": "a09c74b05e22736023c73a7586706981f92ceb16ba2d9cf564f4e33ac7d6f7f1",
+  "fileSize": 32768,
+  "rawSha256": "0904a2b699717dfb41c67be5b47d1b017ace94103de553b4049a02f1d504d308",
+  "rowCount": 52,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangGeneratedLiveActiveSkillEffect_Jpn.jsonl"
+}

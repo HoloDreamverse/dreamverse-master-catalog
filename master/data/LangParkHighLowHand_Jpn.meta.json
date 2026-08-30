@@ -1,0 +1,12 @@
+{
+  "type": "LangParkHighLowHand_Jpn",
+  "fileName": "b434d93e5385942010dae220d005d97b37c56fdfac485947133c69b5479cdff2",
+  "rawPath": "b434d93e5385942010dae220d005d97b37c56fdfac485947133c69b5479cdff2",
+  "fileSize": 12288,
+  "rawSha256": "a0148bf0a0b4cd78aacd4e72cad7aa072c0957fe1872d1f10456f53fbb1a0f20",
+  "rowCount": 10,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangParkHighLowHand_Jpn.jsonl"
+}

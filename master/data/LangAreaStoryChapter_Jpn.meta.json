@@ -1,0 +1,12 @@
+{
+  "type": "LangAreaStoryChapter_Jpn",
+  "fileName": "880e340365df078ca4523437eb49bc90cc6be66268d5deb8426b0386ac1ab01a",
+  "rawPath": "880e340365df078ca4523437eb49bc90cc6be66268d5deb8426b0386ac1ab01a",
+  "fileSize": 12288,
+  "rawSha256": "a8b5acd87647dde2725195054269b71960bb008ca4d795c55458354673f3d2d2",
+  "rowCount": 2,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangAreaStoryChapter_Jpn.jsonl"
+}

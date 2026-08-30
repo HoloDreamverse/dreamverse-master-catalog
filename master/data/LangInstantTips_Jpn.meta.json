@@ -1,0 +1,12 @@
+{
+  "type": "LangInstantTips_Jpn",
+  "fileName": "5db5b8949a6c2ace54a4e4e72ce7eb8e36e2d8aca085becab3ca055e2dc17231",
+  "rawPath": "5db5b8949a6c2ace54a4e4e72ce7eb8e36e2d8aca085becab3ca055e2dc17231",
+  "fileSize": 12288,
+  "rawSha256": "29841ee4d5f947271d90ece269a685a9758a93133e5ca6993b3a661b5e521a97",
+  "rowCount": 11,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangInstantTips_Jpn.jsonl"
+}

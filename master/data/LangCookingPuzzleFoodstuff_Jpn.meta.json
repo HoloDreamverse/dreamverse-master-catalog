@@ -1,0 +1,12 @@
+{
+  "type": "LangCookingPuzzleFoodstuff_Jpn",
+  "fileName": "ef48a41982fc15a03ae800e89161e50b6b620a6730f792d1c11c2b5e7fd1c4f8",
+  "rawPath": "ef48a41982fc15a03ae800e89161e50b6b620a6730f792d1c11c2b5e7fd1c4f8",
+  "fileSize": 12288,
+  "rawSha256": "1ffc480f20c60b7e0ebc83bf8f5b316289bdfa9b762ea232aca868100890d45f",
+  "rowCount": 30,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangCookingPuzzleFoodstuff_Jpn.jsonl"
+}

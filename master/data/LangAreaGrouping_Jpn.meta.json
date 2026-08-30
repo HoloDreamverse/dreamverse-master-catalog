@@ -1,0 +1,12 @@
+{
+  "type": "LangAreaGrouping_Jpn",
+  "fileName": "460bfcd6ef2d0d3ed72bd1af35ec10294af18b84f749053db30970b47806277c",
+  "rawPath": "460bfcd6ef2d0d3ed72bd1af35ec10294af18b84f749053db30970b47806277c",
+  "fileSize": 12288,
+  "rawSha256": "ebbd2938957ddc916e470bae8bde2c73e1eabf4e0da966a4408e2bdd740ac322",
+  "rowCount": 4,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangAreaGrouping_Jpn.jsonl"
+}

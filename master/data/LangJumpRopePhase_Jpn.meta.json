@@ -1,0 +1,12 @@
+{
+  "type": "LangJumpRopePhase_Jpn",
+  "fileName": "2be8d3c676e1789d65f833f63a5a540451ad1363c0e74029eb6d5f5c83ec72dd",
+  "rawPath": "2be8d3c676e1789d65f833f63a5a540451ad1363c0e74029eb6d5f5c83ec72dd",
+  "fileSize": 12288,
+  "rawSha256": "64818512d20acc6d4a4604068ff6b0425f5f8222bd366b8b8d115544fc0c9428",
+  "rowCount": 6,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangJumpRopePhase_Jpn.jsonl"
+}

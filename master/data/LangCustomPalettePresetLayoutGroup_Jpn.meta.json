@@ -1,0 +1,12 @@
+{
+  "type": "LangCustomPalettePresetLayoutGroup_Jpn",
+  "fileName": "cbd686271e2cc126c8e10b23e93a2d8c885f0f696e47dcbbf26c38f7fbde643d",
+  "rawPath": "cbd686271e2cc126c8e10b23e93a2d8c885f0f696e47dcbbf26c38f7fbde643d",
+  "fileSize": 12288,
+  "rawSha256": "9ea2f4cec8f30fbe1306476ffb2266a29a2b219247d5119e74ee3823a2d001cd",
+  "rowCount": 6,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangCustomPalettePresetLayoutGroup_Jpn.jsonl"
+}

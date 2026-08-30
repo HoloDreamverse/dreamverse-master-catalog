@@ -1,0 +1,12 @@
+{
+  "type": "LangParkQuest_Jpn",
+  "fileName": "fc142760b269dc3103e7108983b577fe76de887bcd68b877d30ff4e552703754",
+  "rawPath": "fc142760b269dc3103e7108983b577fe76de887bcd68b877d30ff4e552703754",
+  "fileSize": 49152,
+  "rawSha256": "2ad3c2faaab51bbb970b024373eb6ed729f51e2e8e68d4b676fc9fbaad63c9f1",
+  "rowCount": 272,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangParkQuest_Jpn.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "LangEventStory_Jpn",
+  "fileName": "0cd2b048938c1f92e53c40e646489499c0b0f0e5e8d65be29f08d2d6c24d3c73",
+  "rawPath": "0cd2b048938c1f92e53c40e646489499c0b0f0e5e8d65be29f08d2d6c24d3c73",
+  "fileSize": 12288,
+  "rawSha256": "853cea219e65f93f382539e27ebd8a0a681b656f5c2c65f3931749057c3e6de2",
+  "rowCount": 22,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangEventStory_Jpn.jsonl"
+}

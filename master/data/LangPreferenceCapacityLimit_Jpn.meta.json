@@ -1,0 +1,12 @@
+{
+  "type": "LangPreferenceCapacityLimit_Jpn",
+  "fileName": "980e946f14a0aec2bbce9487f4517c65df29bc17bfef1d72f88d02623575138b",
+  "rawPath": "980e946f14a0aec2bbce9487f4517c65df29bc17bfef1d72f88d02623575138b",
+  "fileSize": 12288,
+  "rawSha256": "0a9e80217394ead6a0eb5186759a26425d987964a689349d83a019808dfcf0a6",
+  "rowCount": 4,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangPreferenceCapacityLimit_Jpn.jsonl"
+}

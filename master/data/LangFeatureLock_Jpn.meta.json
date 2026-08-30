@@ -1,0 +1,12 @@
+{
+  "type": "LangFeatureLock_Jpn",
+  "fileName": "4946676389b34d65db457fc945053433f3121bb4a31981a5be1b1c6ed3041be2",
+  "rawPath": "4946676389b34d65db457fc945053433f3121bb4a31981a5be1b1c6ed3041be2",
+  "fileSize": 20480,
+  "rawSha256": "ff992b92aad99fc8dec589e4ef86ac92be2dcf2d14f4ab62893f119bc357a194",
+  "rowCount": 54,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangFeatureLock_Jpn.jsonl"
+}

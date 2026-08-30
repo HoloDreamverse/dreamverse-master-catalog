@@ -1,0 +1,12 @@
+{
+  "type": "LangCharacterVoiceCategory_Jpn",
+  "fileName": "a28898ce5e74d291ca972585f271e6917f750e850f5020bcaf7dfc90b29e5e37",
+  "rawPath": "a28898ce5e74d291ca972585f271e6917f750e850f5020bcaf7dfc90b29e5e37",
+  "fileSize": 12288,
+  "rawSha256": "a92090a259f785c94921b96a3e142bcf8e2d058fcb2312c44a056fdfc538bc03",
+  "rowCount": 4,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangCharacterVoiceCategory_Jpn.jsonl"
+}

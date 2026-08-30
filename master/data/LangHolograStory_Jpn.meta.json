@@ -1,0 +1,12 @@
+{
+  "type": "LangHolograStory_Jpn",
+  "fileName": "0a1c21ebfadd9a12e26aad9677362eff4ebdf62af06e82ea6590d0a387486a74",
+  "rawPath": "0a1c21ebfadd9a12e26aad9677362eff4ebdf62af06e82ea6590d0a387486a74",
+  "fileSize": 12288,
+  "rawSha256": "326f09c9eefa4faf4acef2c5fa4ec5386bac93f2ec4b7767dca39c8f4689b858",
+  "rowCount": 4,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangHolograStory_Jpn.jsonl"
+}

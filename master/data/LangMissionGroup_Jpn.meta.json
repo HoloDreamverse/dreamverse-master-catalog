@@ -1,0 +1,12 @@
+{
+  "type": "LangMissionGroup_Jpn",
+  "fileName": "31638a4307804f82816c95f698aa6a4f74acbe777ea4ec939b69cf482b8fdba5",
+  "rawPath": "31638a4307804f82816c95f698aa6a4f74acbe777ea4ec939b69cf482b8fdba5",
+  "fileSize": 12288,
+  "rawSha256": "fb168be1ffd989e4f69955b2fa2314feb81552f1f7d6e09aba6ab8890599043a",
+  "rowCount": 16,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangMissionGroup_Jpn.jsonl"
+}
