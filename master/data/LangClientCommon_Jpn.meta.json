@@ -1,0 +1,12 @@
+{
+  "type": "LangClientCommon_Jpn",
+  "fileName": "173a25992b3ddb342f970af7751ad4f81ec5e596e12aab1d898e0b126ad46c3f",
+  "rawPath": "173a25992b3ddb342f970af7751ad4f81ec5e596e12aab1d898e0b126ad46c3f",
+  "fileSize": 176128,
+  "rawSha256": "06d95bc7e4065b057d32641448973b29ffae42d127d55a19244512d49c3d6fc6",
+  "rowCount": 3196,
+  "schemaType": "LangClient",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE LangClient(`client_id` INTEGER, `data` BLOB, PRIMARY KEY (`client_id`))",
+  "output": "data/LangClientCommon_Jpn.jsonl"
+}
