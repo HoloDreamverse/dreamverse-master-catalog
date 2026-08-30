@@ -1,0 +1,18 @@
+{
+  "from": "app-1.1.0_master-fbca8c670e074558b24708bf163fff446a614f709afa9d1784395a15444121b0_d37bc81dbd60ecf5",
+  "manifests": {
+    "added": [],
+    "changed": [
+      {
+        "path": "catalog/catalog_jp_rev69.redacted.json",
+        "previousSha256": "989d30b7c615011e7ddd4c20920106a926224d303bfd7638945c1ab6aaa98487",
+        "region": "jp",
+        "revision": 69,
+        "sha256": "791a948d2d0925265be8b983482422269dea6b3bea1d2e86098e6d677b56d9dc"
+      }
+    ],
+    "removed": []
+  },
+  "schemaVersion": 1,
+  "to": "app-1.1.0_master-fbca8c670e074558b24708bf163fff446a614f709afa9d1784395a15444121b0_90b3b152c9364e89"
+}
