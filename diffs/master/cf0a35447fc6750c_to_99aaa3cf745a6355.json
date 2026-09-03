@@ -1,0 +1,41 @@
+{
+  "currentSnapshot": "99aaa3cf745a6355",
+  "files": {
+    "added": [],
+    "changed": [
+      {
+        "path": "master/data/Cheat.jsonl",
+        "previousSha256": "94e05579dbc1e204cd876c197dc351ce03964331c0826b8a58866b14a6fb3bf3",
+        "sha256": "bde4aec769ad91182fb5c55af6fb17563e08ad8393c066b18e2774b11aa984a7"
+      },
+      {
+        "path": "master/export-manifest.json",
+        "previousSha256": "21a3cf8271b4a69c253764fb3fabe043aed072697ccd25bfddba6600ccc6afdf",
+        "sha256": "43c612f960bbdadd94eac9ee1d19473b3247034016e98683974837bd2127055d"
+      },
+      {
+        "path": "master/manifest.redacted.json",
+        "previousSha256": "caa67633d6e17cbde78d30ee4032a937a89a6f6c5c0f0c65575cec598941a155",
+        "sha256": "159dfb70cc466d0852c1c1557dab0bd2c98246df7a8c3e4548e7382df0b2fdbd"
+      }
+    ],
+    "removed": []
+  },
+  "packs": {
+    "added": [],
+    "changed": [
+      {
+        "changes": {
+          "rowCount": {
+            "current": 59,
+            "previous": 52
+          }
+        },
+        "pack": "data/Cheat.jsonl"
+      }
+    ],
+    "removed": []
+  },
+  "previousSnapshot": "cf0a35447fc6750c",
+  "schemaVersion": 1
+}

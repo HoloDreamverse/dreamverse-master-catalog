@@ -1,0 +1,17 @@
+{
+  "currentSnapshot": "6b334c06d0a03b40",
+  "manifests": {
+    "added": [
+      {
+        "path": "catalog/catalog_jp_rev70.redacted.json",
+        "region": "jp",
+        "revision": 70,
+        "sha256": "cceb2f6803a61750552a78a1c23d68078abd5c6dba413a03c8242c424f06893e"
+      }
+    ],
+    "changed": [],
+    "removed": []
+  },
+  "previousSnapshot": "99aaa3cf745a6355",
+  "schemaVersion": 1
+}
