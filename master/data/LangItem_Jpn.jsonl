@@ -128,6 +128,8 @@
 {"id":"la-item-event_badge-marathon_event-normal-002-chapter-01-name","data":{"id":"la-item-event_badge-marathon_event-normal-002-chapter-01-name","text":"イベントバッジ"}}
 {"id":"la-item-event_badge-marathon_event-normal-003-chapter-01-description","data":{"id":"la-item-event_badge-marathon_event-normal-003-chapter-01-description","text":"イベント交換所のアイテムと交換できるバッジ。\n有効期限後はホロゴールドに変換。"}}
 {"id":"la-item-event_badge-marathon_event-normal-003-chapter-01-name","data":{"id":"la-item-event_badge-marathon_event-normal-003-chapter-01-name","text":"イベントバッジ"}}
+{"id":"la-item-event_badge-marathon_event-normal-004-chapter-01-description","data":{"id":"la-item-event_badge-marathon_event-normal-004-chapter-01-description","text":"イベント交換所のアイテムと交換できるバッジ。\n有効期限後はホロゴールドに変換。"}}
+{"id":"la-item-event_badge-marathon_event-normal-004-chapter-01-name","data":{"id":"la-item-event_badge-marathon_event-normal-004-chapter-01-name","text":"イベントバッジ"}}
 {"id":"la-item-event_badge-marathon_event-relay-001-all-description","data":{"id":"la-item-event_badge-marathon_event-relay-001-all-description","text":"イベント交換所(共通)のアイテムと交換できるバッジ。\n有効期限後はホロゴールドに変換。"}}
 {"id":"la-item-event_badge-marathon_event-relay-001-all-name","data":{"id":"la-item-event_badge-marathon_event-relay-001-all-name","text":"イベントバッジ(共通)"}}
 {"id":"la-item-event_badge-marathon_event-relay-001-chapter-01-description","data":{"id":"la-item-event_badge-marathon_event-relay-001-chapter-01-description","text":"イベント交換所(カリオペ)のアイテムと交換できるバッジ。\n有効期限後はホロゴールドに変換。"}}
