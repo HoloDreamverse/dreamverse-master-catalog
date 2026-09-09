@@ -43,6 +43,17 @@
      "external_url": ""
     },
     {
+     "id": "notice-news-info-update-260909",
+     "title": "Ver.1.1.1アップデートのお知らせ",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/b268c88d0db43d71dac10579d0259fce84d7c3ee8262609ddb1890ea22e4f971/index.html",
+     "banner_asset_id": "img_banner_full_update-info",
+     "start_time": 1788919200000,
+     "start_time_utc": "2026-09-09T02:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-marathon_event-normal-004",
      "title": "スコアチャレンジイベント「無邪気なふたり、見守るeyes」開催！",
      "type": 2,
@@ -301,6 +312,17 @@
      "banner_asset_id": "",
      "start_time": 1787875200000,
      "start_time_utc": "2026-08-28T00:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-mal-shop-subscription-01-ios",
+     "title": "「メンバーシップ」「ホロパスポート」での不具合について",
+     "type": 100,
+     "type_name": "bug",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/9bb2d8083a9e517324a0553bda17bb3bb538b03db1a7763838709dac616e2a7e/index.html",
+     "banner_asset_id": "",
+     "start_time": 1787466600000,
+     "start_time_utc": "2026-08-23T06:30:00Z",
      "external_url": ""
     },
     {
