@@ -32,17 +32,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-birthday-chr-00032-260908",
-     "title": "Happy Birthday！ 獅白ぼたん",
-     "type": 6,
-     "type_name": "campaign",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/b1e21ce5382dc3b9fdb32c8a0245a600ed10b016b5ff01472a51c8d2b51891e2/index.html",
-     "banner_asset_id": "img_banner_full_birthday-chr-00032-260908",
-     "start_time": 1788793200000,
-     "start_time_utc": "2026-09-07T15:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-gacha-pickup-260908",
      "title": "秘密のバケーションガチャ開催！",
      "type": 1,
