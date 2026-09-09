@@ -21,6 +21,17 @@
      "external_url": ""
     },
     {
+     "id": "notice-news-info-update-260909",
+     "title": "Ver.1.1.1アップデートのお知らせ",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/b268c88d0db43d71dac10579d0259fce84d7c3ee8262609ddb1890ea22e4f971/index.html",
+     "banner_asset_id": "img_banner_full_update-info",
+     "start_time": 1788919200000,
+     "start_time_utc": "2026-09-09T02:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-birthday-chr-00032-260908",
      "title": "Happy Birthday！ 獅白ぼたん",
      "type": 6,
@@ -40,17 +51,6 @@
      "banner_asset_id": "img_banner_full_gacha-pickup-260908",
      "start_time": 1788832800000,
      "start_time_utc": "2026-09-08T02:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-info-update-260909",
-     "title": "Ver.1.1.1アップデートのお知らせ",
-     "type": 3,
-     "type_name": "update",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/b268c88d0db43d71dac10579d0259fce84d7c3ee8262609ddb1890ea22e4f971/index.html",
-     "banner_asset_id": "img_banner_full_update-info",
-     "start_time": 1788919200000,
-     "start_time_utc": "2026-09-09T02:00:00Z",
      "external_url": ""
     },
     {
