@@ -10,17 +10,6 @@
    "display_type_name": "normal",
    "notices": [
     {
-     "id": "notice-news-birthday-chr-03006-260909",
-     "title": "Happy Birthday！ パヴォリア・レイネ",
-     "type": 6,
-     "type_name": "campaign",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/d9e7d4de5e8902938d05ee816c5cc386e909b908e7283f05fe09d52785d03329/index.html",
-     "banner_asset_id": "img_banner_full_birthday-chr-03006-260909",
-     "start_time": 1788879600000,
-     "start_time_utc": "2026-09-08T15:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-exchange_booth-facility-a01-exchangebooth2",
      "title": "ねぽらぼマートに「ホロメダル交換」が追加！",
      "type": 3,
