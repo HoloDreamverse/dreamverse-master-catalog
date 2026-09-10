@@ -313,17 +313,6 @@
      "start_time": 1787466600000,
      "start_time_utc": "2026-08-23T06:30:00Z",
      "external_url": ""
-    },
-    {
-     "id": "notice-mal-shop-benefit_pass-01-android",
-     "title": "ホロパスポートでの不具合について",
-     "type": 100,
-     "type_name": "bug",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/4f4338cb19b4de4ae58a9cfb19e8dae83c01877663c1ede62fed331a47834567/index.html",
-     "banner_asset_id": "",
-     "start_time": 1786327200000,
-     "start_time_utc": "2026-08-10T02:00:00Z",
-     "external_url": ""
     }
    ]
   },
