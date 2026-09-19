@@ -1,7 +1,7 @@
 {
  "format": "hololive-dreams-notices",
  "region": "jp",
- "app_version": "1.1.0",
+ "app_version": "1.1.1",
  "categories": [
   {
    "id": "notice_category-news",
@@ -9,6 +9,39 @@
    "display_type": 1,
    "display_type_name": "normal",
    "notices": [
+    {
+     "id": "notice-news-gacha-pickup-260919",
+     "title": "涼を求めるトリップガチャ開催！",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/102bd167c4f2809290b4f6e0232db4e5a3e15d25ed7468e3e607e8bb736c19ca/index.html",
+     "banner_asset_id": "img_banner_full_gacha-pickup-260919",
+     "start_time": 1789783200000,
+     "start_time_utc": "2026-09-19T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-marathon_event-relay-002",
+     "title": "スポットライトイベント「夢幻のサマーエスケープ！？」開催！",
+     "type": 2,
+     "type_name": "event",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/b1ce1f09d2c9a0fcb3de4bb3bef58084fb5e7bd5c9e704ceaa9837b08cb7077d/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-relay-002",
+     "start_time": 1789815600000,
+     "start_time_utc": "2026-09-19T11:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-holocard-ranking_reset",
+     "title": "「ポカジャン！」の今後の仕様変更に関するお知らせ",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/7c86a3d1e53c5f87e9f9c4da13a228c98ed3fdd3e5c3393cc842b07b340c947b/index.html",
+     "banner_asset_id": "",
+     "start_time": 1789626600000,
+     "start_time_utc": "2026-09-17T06:30:00Z",
+     "external_url": ""
+    },
     {
      "id": "notice-news-exchange_booth-facility-a01-exchangebooth2",
      "title": "ねぽらぼマートに「ホロメダル交換」が追加！",
@@ -29,17 +62,6 @@
      "banner_asset_id": "img_banner_full_update-info",
      "start_time": 1788919200000,
      "start_time_utc": "2026-09-09T02:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-gacha-pickup-260908",
-     "title": "秘密のバケーションガチャ開催！",
-     "type": 1,
-     "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/42426a7e9a627b1c777914447f8092f0527f3c03f0fa5c287ed089cd1a9c789d/index.html",
-     "banner_asset_id": "img_banner_full_gacha-pickup-260908",
-     "start_time": 1788832800000,
-     "start_time_utc": "2026-09-08T02:00:00Z",
      "external_url": ""
     },
     {
@@ -98,17 +120,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-marathon_event-normal-003",
-     "title": "ポイントラリーイベント「無人島ジャック！真夏のサバイバルデイズ」開催！",
-     "type": 2,
-     "type_name": "event",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/82a0ba9593ca47e19c779c11472f29efb2c17bb1dddcb279049223b0c80d1cc4/index.html",
-     "banner_asset_id": "img_banner_full_marathon_event-normal-003",
-     "start_time": 1787972400000,
-     "start_time_utc": "2026-08-29T03:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-info-update-260828",
      "title": "Ver.1.1.0アップデートのお知らせ",
      "type": 3,
@@ -139,17 +150,6 @@
      "banner_asset_id": "img_banner_full_login-bonus-event-260828",
      "start_time": 1787882400000,
      "start_time_utc": "2026-08-28T02:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-info-update-260824",
-     "title": "メンテナンスのお知らせ",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/115db2ca6f2addf5ac7f91b26d9f4bf9b197f936011107ce00fe75394f93c85d/index.html",
-     "banner_asset_id": "img_banner_full_maintenance-info",
-     "start_time": 1787578200000,
-     "start_time_utc": "2026-08-24T13:30:00Z",
      "external_url": ""
     },
     {
@@ -282,6 +282,28 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-mal-login-failed-android-01-ios",
+     "title": "一部のAndroid端末でログインできない不具合について",
+     "type": 100,
+     "type_name": "bug",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/e602c38ea15cc1f35c4243987bfcd8a6a00367a1bb92e67d505f00a557df4d07/index.html",
+     "banner_asset_id": "",
+     "start_time": 1789626600000,
+     "start_time_utc": "2026-09-17T06:30:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-mal-list-fixed",
+     "title": "修正済みの不具合",
+     "type": 100,
+     "type_name": "bug",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/2c5930d769641ed70b2ffc7879e3e2f30b023f3b134e51d852942ac4cd9f4a39/index.html",
+     "banner_asset_id": "",
+     "start_time": 1787875200000,
+     "start_time_utc": "2026-08-28T00:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-mal-list-confirmed",
      "title": "現在確認している不具合",
      "type": 100,
@@ -290,28 +312,6 @@
      "banner_asset_id": "",
      "start_time": 1787875200000,
      "start_time_utc": "2026-08-28T00:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-mal-list-fixed",
-     "title": "修正済みの不具合",
-     "type": 100,
-     "type_name": "bug",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/98e0b1fd7ad0b48d895f5f7ce3967af9692878ff79b9ac9baeeb9fe85a78b446/index.html",
-     "banner_asset_id": "",
-     "start_time": 1787875200000,
-     "start_time_utc": "2026-08-28T00:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-mal-shop-subscription-01-ios",
-     "title": "「メンバーシップ」「ホロパスポート」での不具合について",
-     "type": 100,
-     "type_name": "bug",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/9bb2d8083a9e517324a0553bda17bb3bb538b03db1a7763838709dac616e2a7e/index.html",
-     "banner_asset_id": "",
-     "start_time": 1787466600000,
-     "start_time_utc": "2026-08-23T06:30:00Z",
      "external_url": ""
     }
    ]
