@@ -1,0 +1,92 @@
+{
+  "currentVersion": "rev81",
+  "files": {
+    "added": [
+      {
+        "asset_bundles": {
+          "added": [
+            {
+              "addresses": [
+                "img_banner_full_info-stream-63"
+              ],
+              "crc": 1497354173,
+              "dependencies": [],
+              "id": 40839,
+              "md5": "d6e3f1ef579560278fa4776a3444675f",
+              "name": "img_banner_full_info-stream-63",
+              "object_name": "ouskgd",
+              "size": 1004417
+            },
+            {
+              "addresses": [
+                "img_banner_full_info-stream-63_lang-chs"
+              ],
+              "crc": 3743155165,
+              "dependencies": [],
+              "id": 40840,
+              "md5": "ba051077aa1e1c752614b6a88c9a5b52",
+              "name": "img_banner_full_info-stream-63_lang-chs",
+              "object_name": "il8Lqn",
+              "size": 1023343
+            },
+            {
+              "addresses": [
+                "img_banner_full_info-stream-63_lang-cht"
+              ],
+              "crc": 1619390014,
+              "dependencies": [],
+              "id": 40841,
+              "md5": "75e7e590e1a991530a79e06a5728de82",
+              "name": "img_banner_full_info-stream-63_lang-cht",
+              "object_name": "UPiSU6",
+              "size": 1040968
+            },
+            {
+              "addresses": [
+                "img_banner_full_info-stream-63_lang-eng"
+              ],
+              "crc": 1445447548,
+              "dependencies": [],
+              "id": 40842,
+              "md5": "b5e548bcd5b90a73f49ec58f8092248a",
+              "name": "img_banner_full_info-stream-63_lang-eng",
+              "object_name": "SUBVt9",
+              "size": 1046552
+            },
+            {
+              "addresses": [
+                "img_banner_full_info-stream-63_lang-ind"
+              ],
+              "crc": 1015470887,
+              "dependencies": [],
+              "id": 40843,
+              "md5": "39d6a7a72c907ac00718d758d692fda9",
+              "name": "img_banner_full_info-stream-63_lang-ind",
+              "object_name": "QuWYfr",
+              "size": 1053611
+            },
+            {
+              "addresses": [
+                "img_banner_full_info-stream-63_lang-kor"
+              ],
+              "crc": 1877502610,
+              "dependencies": [],
+              "id": 40844,
+              "md5": "70b5d2ccad6c8fceb4d54bd647b07456",
+              "name": "img_banner_full_info-stream-63_lang-kor",
+              "object_name": "XCjH7U",
+              "size": 993887
+            }
+          ],
+          "removed": []
+        },
+        "path": "catalog/catalog_jp_rev81.redacted.json",
+        "previousPath": "catalog/catalog_jp_rev80.redacted.json"
+      }
+    ],
+    "changed": [],
+    "removed": []
+  },
+  "previousVersion": "rev80",
+  "schemaVersion": 2
+}

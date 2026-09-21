@@ -10,6 +10,17 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-news-info-stream-63",
+     "title": "ホロドリ公式特番が放送決定！",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/61f89f82ebc9465f11a78286d62bb054ea6dfe17fcde7ac9f259911fad986a1c/index.html",
+     "banner_asset_id": "img_banner_full_info-stream-63",
+     "start_time": 1789981200000,
+     "start_time_utc": "2026-09-21T09:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-gacha-pickup-260919",
      "title": "涼を求めるトリップガチャ開催！",
      "type": 1,
