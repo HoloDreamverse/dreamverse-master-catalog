@@ -98,17 +98,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-marathon_event-normal-004",
-     "title": "スコアチャレンジイベント「無邪気なふたり、見守るeyes」開催！",
-     "type": 2,
-     "type_name": "event",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/4e689169ffc07d641388fa290f24f68c5b9635b86b486da157f5ec41f7a4c510/index.html",
-     "banner_asset_id": "img_banner_full_marathon_event-normal-004",
-     "start_time": 1788836400000,
-     "start_time_utc": "2026-09-08T03:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-info-update-chase",
      "title": "新ミニゲーム「くらやみチェイス」開幕！",
      "type": 3,
