@@ -142,28 +142,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-mission-chase_celebration-260828",
-     "title": "くらやみチェイス開幕記念ミッション開催！",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/54a148ce7ada52ef8b610ad40441111c0113a85eb52646f8d1aad0bb3851341a/index.html",
-     "banner_asset_id": "img_banner_full_event-mission-chase-celebration-260828",
-     "start_time": 1787882400000,
-     "start_time_utc": "2026-08-28T02:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-login_bonus-event-260828",
-     "title": "くらやみチェイス開幕記念！ログインボーナス開催！",
-     "type": 6,
-     "type_name": "campaign",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/2f7a11ea554a231b388d8e05737638949bc6eee282f2efce1e773b6ee40e918f/index.html",
-     "banner_asset_id": "img_banner_full_login-bonus-event-260828",
-     "start_time": 1787882400000,
-     "start_time_utc": "2026-08-28T02:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-info-creative-chart-01",
      "title": "クリエイト譜面の投稿について",
      "type": 4,
