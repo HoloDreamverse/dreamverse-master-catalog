@@ -199,6 +199,7 @@
 {"id":"la-music_arranger-m0363","data":{"id":"la-music_arranger-m0363","text":"椎乃味醂"}}
 {"id":"la-music_arranger-m0459","data":{"id":"la-music_arranger-m0459","text":"Aira (Dream Monster)"}}
 {"id":"la-music_arranger-m0524","data":{"id":"la-music_arranger-m0524","text":"TAK"}}
+{"id":"la-music_arranger-m0525","data":{"id":"la-music_arranger-m0525","text":"PandaBoY"}}
 {"id":"la-music_arranger-m0527","data":{"id":"la-music_arranger-m0527","text":"ONIGAWARA"}}
 {"id":"la-music_arranger-m9999","data":{"id":"la-music_arranger-m9999","text":"秋浦智裕"}}
 {"id":"la-music_arranger_ruby-m0001","data":{"id":"la-music_arranger_ruby-m0001","text":"あきうらともひろ"}}
@@ -402,6 +403,7 @@
 {"id":"la-music_arranger_ruby-m0363","data":{"id":"la-music_arranger_ruby-m0363","text":"しいのみりん"}}
 {"id":"la-music_arranger_ruby-m0459","data":{"id":"la-music_arranger_ruby-m0459","text":"あいらどりーむもんすたー"}}
 {"id":"la-music_arranger_ruby-m0524","data":{"id":"la-music_arranger_ruby-m0524","text":"たく"}}
+{"id":"la-music_arranger_ruby-m0525","data":{"id":"la-music_arranger_ruby-m0525","text":"ぱんだぼーい"}}
 {"id":"la-music_arranger_ruby-m0527","data":{"id":"la-music_arranger_ruby-m0527","text":"おにがわら"}}
 {"id":"la-music_arranger_ruby-m9999","data":{"id":"la-music_arranger_ruby-m9999","text":"あきうらともひろ"}}
 {"id":"la-music_composer-m0001","data":{"id":"la-music_composer-m0001","text":"中野領太"}}
@@ -605,6 +607,7 @@
 {"id":"la-music_composer-m0363","data":{"id":"la-music_composer-m0363","text":"椎乃味醂"}}
 {"id":"la-music_composer-m0459","data":{"id":"la-music_composer-m0459","text":"Aira (Dream Monster)"}}
 {"id":"la-music_composer-m0524","data":{"id":"la-music_composer-m0524","text":"TAK"}}
+{"id":"la-music_composer-m0525","data":{"id":"la-music_composer-m0525","text":"PandaBoY"}}
 {"id":"la-music_composer-m0527","data":{"id":"la-music_composer-m0527","text":"ONIGAWARA"}}
 {"id":"la-music_composer-m9999","data":{"id":"la-music_composer-m9999","text":"中野領太"}}
 {"id":"la-music_composer_ruby-m0001","data":{"id":"la-music_composer_ruby-m0001","text":"なかのりょうた"}}
@@ -808,6 +811,7 @@
 {"id":"la-music_composer_ruby-m0363","data":{"id":"la-music_composer_ruby-m0363","text":"しいのみりん"}}
 {"id":"la-music_composer_ruby-m0459","data":{"id":"la-music_composer_ruby-m0459","text":"あいらどりーむもんすたー"}}
 {"id":"la-music_composer_ruby-m0524","data":{"id":"la-music_composer_ruby-m0524","text":"たく"}}
+{"id":"la-music_composer_ruby-m0525","data":{"id":"la-music_composer_ruby-m0525","text":"ぱんだぼーい"}}
 {"id":"la-music_composer_ruby-m0527","data":{"id":"la-music_composer_ruby-m0527","text":"おにがわら"}}
 {"id":"la-music_composer_ruby-m9999","data":{"id":"la-music_composer_ruby-m9999","text":"なかのりょうた"}}
 {"id":"la-music_lock_description-m0009","data":{"id":"la-music_lock_description-m0009","text":"解放条件：「星街すいせい」ホロメンクエストクリア"}}
@@ -1067,6 +1071,7 @@
 {"id":"la-music_lyricist-m0363","data":{"id":"la-music_lyricist-m0363","text":"椎乃味醂"}}
 {"id":"la-music_lyricist-m0459","data":{"id":"la-music_lyricist-m0459","text":"Aira (Dream Monster)"}}
 {"id":"la-music_lyricist-m0524","data":{"id":"la-music_lyricist-m0524","text":"TAK"}}
+{"id":"la-music_lyricist-m0525","data":{"id":"la-music_lyricist-m0525","text":"PandaBoY"}}
 {"id":"la-music_lyricist-m0527","data":{"id":"la-music_lyricist-m0527","text":"竹内サティフォ"}}
 {"id":"la-music_lyricist-m9999","data":{"id":"la-music_lyricist-m9999","text":"金丸佳史"}}
 {"id":"la-music_lyricist_ruby-m0001","data":{"id":"la-music_lyricist_ruby-m0001","text":"かなまるよしふみ"}}
@@ -1270,6 +1275,7 @@
 {"id":"la-music_lyricist_ruby-m0363","data":{"id":"la-music_lyricist_ruby-m0363","text":"しいのみりん"}}
 {"id":"la-music_lyricist_ruby-m0459","data":{"id":"la-music_lyricist_ruby-m0459","text":"あいらどりーむもんすたー"}}
 {"id":"la-music_lyricist_ruby-m0524","data":{"id":"la-music_lyricist_ruby-m0524","text":"たく"}}
+{"id":"la-music_lyricist_ruby-m0525","data":{"id":"la-music_lyricist_ruby-m0525","text":"ぱんだぼーい"}}
 {"id":"la-music_lyricist_ruby-m0527","data":{"id":"la-music_lyricist_ruby-m0527","text":"たけうちさてぃふぉ"}}
 {"id":"la-music_lyricist_ruby-m9999","data":{"id":"la-music_lyricist_ruby-m9999","text":"かなまるよしふみ"}}
 {"id":"la-music_title-m0001","data":{"id":"la-music_title-m0001","text":"Shiny Smily Story (2022 ver.)"}}
@@ -1473,6 +1479,7 @@
 {"id":"la-music_title-m0363","data":{"id":"la-music_title-m0363","text":"シミュラクル"}}
 {"id":"la-music_title-m0459","data":{"id":"la-music_title-m0459","text":"Illusion Night"}}
 {"id":"la-music_title-m0524","data":{"id":"la-music_title-m0524","text":"You ＆ 合図"}}
+{"id":"la-music_title-m0525","data":{"id":"la-music_title-m0525","text":"Watcha Gatcha!!!!!!!!"}}
 {"id":"la-music_title-m0527","data":{"id":"la-music_title-m0527","text":"めくるめくランデヴー"}}
 {"id":"la-music_title-m9999","data":{"id":"la-music_title-m9999","text":"Shiny Smily Story (2022 ver.)"}}
 {"id":"la-music_title_ruby-m0001","data":{"id":"la-music_title_ruby-m0001","text":"しゃいにーすまいりーすとーりー2022ばーじょん"}}
@@ -1676,6 +1683,7 @@
 {"id":"la-music_title_ruby-m0363","data":{"id":"la-music_title_ruby-m0363","text":"しみゅらくる"}}
 {"id":"la-music_title_ruby-m0459","data":{"id":"la-music_title_ruby-m0459","text":"いりゅーじょんないと"}}
 {"id":"la-music_title_ruby-m0524","data":{"id":"la-music_title_ruby-m0524","text":"ゆーあんどあいず"}}
+{"id":"la-music_title_ruby-m0525","data":{"id":"la-music_title_ruby-m0525","text":"わっちゃがっちゃ"}}
 {"id":"la-music_title_ruby-m0527","data":{"id":"la-music_title_ruby-m0527","text":"めくるめくらんでう゛ー"}}
 {"id":"la-music_title_ruby-m9999","data":{"id":"la-music_title_ruby-m9999","text":"しゃいにーすまいりーすとーりー2022ばーじょん"}}
 {"id":"la-singer_name-m0001","data":{"id":"la-singer_name-m0001","text":"hololive IDOL PROJECT"}}
@@ -1879,6 +1887,7 @@
 {"id":"la-singer_name-m0363","data":{"id":"la-singer_name-m0363","text":"獅白ぼたん"}}
 {"id":"la-singer_name-m0459","data":{"id":"la-singer_name-m0459","text":"Pavolia Reine"}}
 {"id":"la-singer_name-m0524","data":{"id":"la-singer_name-m0524","text":"音乃瀬奏"}}
+{"id":"la-singer_name-m0525","data":{"id":"la-singer_name-m0525","text":"hololive 5th Generation, 秘密結社holoX"}}
 {"id":"la-singer_name-m0527","data":{"id":"la-singer_name-m0527","text":"FUWAMOCO"}}
 {"id":"la-singer_name-m9999","data":{"id":"la-singer_name-m9999","text":"hololive IDOL PROJECT"}}
 {"id":"la-singer_name_ruby-m0001","data":{"id":"la-singer_name_ruby-m0001","text":"ほろらいぶあいどるぷろじぇくと"}}
@@ -2082,5 +2091,6 @@
 {"id":"la-singer_name_ruby-m0363","data":{"id":"la-singer_name_ruby-m0363","text":"ししろぼたん"}}
 {"id":"la-singer_name_ruby-m0459","data":{"id":"la-singer_name_ruby-m0459","text":"ぱゔぉりあれいね"}}
 {"id":"la-singer_name_ruby-m0524","data":{"id":"la-singer_name_ruby-m0524","text":"おとのせかなで"}}
+{"id":"la-singer_name_ruby-m0525","data":{"id":"la-singer_name_ruby-m0525","text":"ほろらいぶふぃふすじぇねれーしょんゆきはならみぃももすずねねししろぼたんおまるぽるかひみつけっしゃほろっくすらぷらすだーくねすたかねるいはくいこよりかざまいろは"}}
 {"id":"la-singer_name_ruby-m0527","data":{"id":"la-singer_name_ruby-m0527","text":"ふわわもここふわもこあびすがーど"}}
 {"id":"la-singer_name_ruby-m9999","data":{"id":"la-singer_name_ruby-m9999","text":"ほろらいぶあいどるぷろじぇくと"}}
