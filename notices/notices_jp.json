@@ -21,6 +21,28 @@
      "external_url": ""
     },
     {
+     "id": "notice-news-gacha-pickup-260929-pre",
+     "title": "【予告】夢みるブルーフロンティアガチャ開催！",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/1f29a7c8327684d65d8f593b5f8028846a81a225a87af18f20c17ae7e7beb010/index.html",
+     "banner_asset_id": "img_banner_full_gacha-pickup-260929",
+     "start_time": 1790575200000,
+     "start_time_utc": "2026-09-28T06:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-marathon_event-normal-005-pre",
+     "title": "【予告】スコアチャレンジイベント「わくわくブルースプラッシュ！」開催！",
+     "type": 2,
+     "type_name": "event",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/00c05716806d0a21a6f8423a66e03cd27d40098f2d6afcfdca94f6a4fff29ca8/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-normal-005",
+     "start_time": 1790575200000,
+     "start_time_utc": "2026-09-28T06:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-music-release-260926",
      "title": "ねぽっくす！の楽曲「Watcha Gatcha!!!!!!!!」追加！",
      "type": 5,
