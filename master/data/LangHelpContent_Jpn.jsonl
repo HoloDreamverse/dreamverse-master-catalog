@@ -156,6 +156,8 @@
 {"id":"la-help_category-help-game-6-title","data":{"id":"la-help_category-help-game-6-title","text":"ポカジャン！について"}}
 {"id":"la-help_category-help-game-7-text","data":{"id":"la-help_category-help-game-7-text","text":"くらやみチェイスはいたずら組、パトロール隊の2チームに分かれる鬼ごっこ型のミニゲームです。\nいたずら組はパトロール隊に捕まらないように規定数の施設を開放すると勝利、パトロール隊は時間内に施設を開放されないよう守り切るか、いたずら組を捕まえて全員を拘束状態にすると勝利となります。\n報酬は勝敗に関わらず、スコアに応じて獲得することができます。\n\nプレイモードは「マルチプレイ」のみとなっており、最大10人で遊ぶことが可能です。\n\n詳細についてはくらやみチェイスTOP画面の［？］を選択し、遊び方をご確認ください。"}}
 {"id":"la-help_category-help-game-7-title","data":{"id":"la-help_category-help-game-7-title","text":"くらやみチェイスについて"}}
+{"id":"la-help_category-help-game-8-text","data":{"id":"la-help_category-help-game-8-text","text":"スプラッシュボールは、3チーム3人に分かれてボートを操作し、敵チームのゴールにボールを入れていく水上ミニゲームです。\nいずれかのチームが規定の点数に達するか0点になる、もしくは制限時間が0になると終了となります。\nチームの順位、個人の成績に応じて報酬を獲得することができます。\nプレイモードは「マルチプレイ」のみとなっており、最大9人で遊ぶことが可能です。\n\n詳細についてはスプラッシュボールTOP画面の［？］を選択し、遊び方をご確認ください。"}}
+{"id":"la-help_category-help-game-8-title","data":{"id":"la-help_category-help-game-8-title","text":"スプラッシュボールについて"}}
 {"id":"la-help_category-help-item-1-text","data":{"id":"la-help_category-help-item-1-text","text":"所持品では、所持している各種アイテムの個数、用途、入手方法を確認することができます。\n有効期限があるアイテムの場合、有効期限も表示されます。\n※有効期限が過ぎたアイテムは消失します。"}}
 {"id":"la-help_category-help-item-1-title","data":{"id":"la-help_category-help-item-1-title","text":"所持品について"}}
 {"id":"la-help_category-help-item-2-text","data":{"id":"la-help_category-help-item-2-text","text":"セレクトボックスは、好きなアイテムを1つ選べる報酬ボックスです。\n所持品のセレクトボックスを選択して、アイテムを選ぶことができます。"}}
@@ -164,6 +166,8 @@
 {"id":"la-help_category-help-option-1-title","data":{"id":"la-help_category-help-option-1-title","text":"オプションについて"}}
 {"id":"la-help_category-help-option-2-text","data":{"id":"la-help_category-help-option-2-text","text":"ライブオプションでは、ライブ中の設定、スキン、サウンド、詳細設定が行えます。"}}
 {"id":"la-help_category-help-option-2-title","data":{"id":"la-help_category-help-option-2-title","text":"ライブオプションについて"}}
+{"id":"la-help_category-help-option-3-text","data":{"id":"la-help_category-help-option-3-text","text":"ゲームの動作が重い場合は、品質設定を下げることで負荷を軽減できる場合があります。\nただし、品質設定を標準以下にすると、パークに登場するホロメンの人数が減少する場合があります。ゲームの動作状況に合わせて、快適にプレイできる設定をお試しください。"}}
+{"id":"la-help_category-help-option-3-title","data":{"id":"la-help_category-help-option-3-title","text":"品質の設定について"}}
 {"id":"la-help_category-help-park-1-text","data":{"id":"la-help_category-help-park-1-text","text":"ドリーム・パークでは任意のホロメンを操作し、ライブやミニゲームで遊んだり、施設を建築してパークを発展させることができます。\n\nストーリーを進めることで新エリアが解放され、そのエリアならではのミニゲームを遊んだり、施設を利用することができます。"}}
 {"id":"la-help_category-help-park-1-title","data":{"id":"la-help_category-help-park-1-title","text":"ドリーム・パークについて"}}
 {"id":"la-help_category-help-park-10-text","data":{"id":"la-help_category-help-park-10-text","text":"時間は「朝」「夕方」「夜」があります。\nドリーム・パーク内には任意の時間に変更できる施設が存在します。"}}
@@ -174,6 +178,10 @@
 {"id":"la-help_category-help-park-12-title","data":{"id":"la-help_category-help-park-12-title","text":"トレジャーボックスについて"}}
 {"id":"la-help_category-help-park-13-text","data":{"id":"la-help_category-help-park-13-text","text":"隠しトレジャーは、ストーリーを進行するとドリーム・パーク内の各所に出現します。\n隠しトレジャーを拾うと、様々なアイテムを入手することができます。\n\n隠しトレジャーは毎日各所に出現します。"}}
 {"id":"la-help_category-help-park-13-title","data":{"id":"la-help_category-help-park-13-title","text":"隠しトレジャーについて"}}
+{"id":"la-help_category-help-park-14-text","data":{"id":"la-help_category-help-park-14-text","text":"ソーダポップラグーンではボートに乗って海上を移動することができます。\nボートに近づくと乗船できます。\nまた、ボートに乗っている状態で上陸可能なスポットに近づくと、その場所に上陸できます。"}}
+{"id":"la-help_category-help-park-14-title","data":{"id":"la-help_category-help-park-14-title","text":"ボートについて"}}
+{"id":"la-help_category-help-park-15-text","data":{"id":"la-help_category-help-park-15-text","text":"さかな釣りは、ソーダポップラグーンの釣りスポットでプレイできるゲームです。\n魚を釣り上げると、種類や大きさに応じて「ソーダポップコイン」を獲得できます。\n獲得したコインは、「一条VIPラウンジ」でさまざまなアイテムと交換できます。\n\n▼さかな釣りの遊び方\n魚がエサにヒットして画面をタップするとゲームが開始します。\n画面に表示される「リールボタン」を操作して、魚を釣り上げましょう。\n\n▽基本操作\nリールボタンを押している間は「捕獲バー」が上昇し、指を離すと下降します。\n\n▽釣り上げるコツ\n上下に動く「魚」に捕獲バーを重ね続けることで、ゲージが溜まっていきます。\n\n▽成功と失敗\nゲージが満タンになると見事釣り上げ成功です。\nゲージが0になってしまうと逃げられて失敗となります。\n※魚の種類によって動き方や難易度が変化します。\n\n▼釣りスポットについて\nソーダポップラグーンにある釣りスポットから、釣りを開始できます。\n釣りスポットごとに、出現する魚の種類が異なります。\n\n▼釣り竿について\nホロゴールドを消費することで、釣り竿を強化できます。\n強化すると魚が釣りやすくなり、よりスムーズに釣りができるようになります。\n\n▼エサについて\n釣りで使用するエサは、「ベーズ・ビッツアンドボブス」で交換できます。\n魚によって、好むエサが異なります。\n※魚を釣り上げたり、ゲームに失敗したりするとエサが消費されます。\n\n▼魚図鑑について\n釣り上げた魚の情報は「魚図鑑」に記録されていきます。\n魚図鑑はさかな釣り施設の「ホロメン」に話しかけることで確認できます。\n魚を図鑑に登録していくと、一定数集めるごとに達成報酬を獲得できます。"}}
+{"id":"la-help_category-help-park-15-title","data":{"id":"la-help_category-help-park-15-title","text":"さかな釣りについて"}}
 {"id":"la-help_category-help-park-2-text","data":{"id":"la-help_category-help-park-2-text","text":"ドリームランクは、ドリームランクEXPを一定量獲得することでアップします。\nドリームランクEXPは、ライブをプレイしたり、クエストをクリアすることで獲得することができます。\nドリームランクがアップすると、ランクアップ報酬の受け取りが可能になります。\n\nランクアップ報酬は［メニュー］→［プロフィール］→［ドリームランク］→［ぜんぶ受け取る］の手順で受け取ることができます。"}}
 {"id":"la-help_category-help-park-2-title","data":{"id":"la-help_category-help-park-2-title","text":"ドリームランクについて"}}
 {"id":"la-help_category-help-park-3-text","data":{"id":"la-help_category-help-park-3-text","text":"ドリーム・パーク内の操作ホロメンを変更することができます。\nホロメン変更は［ドリーム・パーク］→［ホロメンアイコン］の手順で行うことができます。\n※ホロメンクエストクリア済みのホロメンが選択可能です。"}}
@@ -224,7 +232,7 @@
 {"id":"la-help_category-help-rhythm-11-title","data":{"id":"la-help_category-help-rhythm-11-title","text":"マルチライブについて"}}
 {"id":"la-help_category-help-rhythm-12-text","data":{"id":"la-help_category-help-rhythm-12-text","text":"オートライブとは、オートチケットを消費してライブを自動でプレイできる機能です。\nライブ前のユニット編成画面で「AUTO」設定をONにすることで使用できます。\n\nオートライブでは、判定は専用の「AUTO」のみとなり、コンボ数によるスコアボーナスは発生しません。\nまた、リザルト画面では判定などは表示されません。\n\n※オートライブでは、一部のアチーブメントを達成できません。"}}
 {"id":"la-help_category-help-rhythm-12-title","data":{"id":"la-help_category-help-rhythm-12-title","text":"オートライブについて"}}
-{"id":"la-help_category-help-rhythm-2-text","data":{"id":"la-help_category-help-rhythm-2-text","text":"ユニットはリーダーとなるホロメンと5人のメンバーで構成されています。\nユニット編成はホロメンごとに最大10個まで登録することができます。\n\nユニットスコアはライブにおいてスコアを獲得する際の指標となるパラメータです。\nユニットスコアが高いほど、獲得スコアを上昇させることができます。\nユニットスコアはリーダーの衣装スキル、メンバーのパラメータ、スキルなどから決定されます。"}}
+{"id":"la-help_category-help-rhythm-2-text","data":{"id":"la-help_category-help-rhythm-2-text","text":"ユニットはリーダーとなるホロメンと5人のメンバーで構成されています。\nユニット編成はホロメンごとに最大10個まで登録することができます。\n\nユニットスコアはライブにおいてスコアを獲得する際の指標となるパラメータです。\nユニットスコアが高いほど、獲得スコアを上昇させることができます。\nユニットスコアはリーダーの衣装スキル、メンバーのパラメータ、スキルなどから決定されます。\n\n※ユニットスコアは、アクティブスキルが満遍なく発動しているかどうかも考慮して算出されているため、編成によってはホロメンボードの「スキル発動頻度UP」を解放することで数値が下がる場合があります。"}}
 {"id":"la-help_category-help-rhythm-2-title","data":{"id":"la-help_category-help-rhythm-2-title","text":"ユニットについて"}}
 {"id":"la-help_category-help-rhythm-3-text","data":{"id":"la-help_category-help-rhythm-3-text","text":"ノーツとはライブ中のレーンに流れてくるアイコンのことです。 \nレーンに流れるノーツを判定ラインに重なるタイミングで、各ノーツに合わせた操作をすることで判定が行われます。\n\n判定の種類はPERFECT、GREAT、GOOD、BAD、MISSがあり、判定はスコアやコンボに影響します。\nGREAT以上のタップ判定では、コンボは継続しますが、GOOD、BAD、MISSの判定ではコンボが途切れてしまいます。\nBAD、MISSの場合は、ライフも減少します。\n\nなお、ノーツには以下の種類があります。\n\n▼青色の通常ノーツ\nラインに重なったタイミングに合わせてタップ\n\n▼ピンク色のフリックノーツ\nノーツが来たらフリック\n※連続でフリックノーツが来た場合、指を画面に押さえたまま連続でフリックできます。\n\n▼緑色のロングノーツ\nノーツをなぞりながら押し続ける\n※ロングノーツの終わりでタイミングよく離さなくても判定に影響はありません。\n※ロングノーツ中、少しだけ指を離しても継続できるため、スライドする譜面等で別の指に持ち替えることもできます。\n\n▼黄色のアクセントノーツ\nPERFECT判定が出やすい、タップ音が異なるノーツ\n\n▼灰色のノーツ\nライブオプションのリズムサポートをONにした場合、裏拍などのリズムの際の通常ノーツが灰色に変化し、リズムのズレを確認しやすくなります。"}}
 {"id":"la-help_category-help-rhythm-3-title","data":{"id":"la-help_category-help-rhythm-3-title","text":"ノーツ・判定について"}}

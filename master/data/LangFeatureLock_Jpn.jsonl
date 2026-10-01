@@ -27,7 +27,10 @@
 {"id":"la-feature_lock-music_highest_score_ranking-title","data":{"id":"la-feature_lock-music_highest_score_ranking-title","text":"ハイスコアランキング"}}
 {"id":"la-feature_lock-music_highest_score_rating_ranking-description","data":{"id":"la-feature_lock-music_highest_score_rating_ranking-description","text":"解放条件：メインクエスト12話クリア"}}
 {"id":"la-feature_lock-music_highest_score_rating_ranking-title","data":{"id":"la-feature_lock-music_highest_score_rating_ranking-title","text":"ハイスコアレーティングランキング"}}
+{"id":"la-feature_lock-park_area03_sea_area2-title","data":{"id":"la-feature_lock-park_area03_sea_area2-title","text":"新たな海域"}}
+{"id":"la-feature_lock-park_area03_sea_area3-title","data":{"id":"la-feature_lock-park_area03_sea_area3-title","text":"新たな海域"}}
 {"id":"la-feature_lock-park_area_quest-title","data":{"id":"la-feature_lock-park_area_quest-title","text":"エリアクエスト"}}
+{"id":"la-feature_lock-park_boat-title","data":{"id":"la-feature_lock-park_boat-title","text":"ボート"}}
 {"id":"la-feature_lock-park_character_quest-title","data":{"id":"la-feature_lock-park_character_quest-title","text":"ホロメンクエスト"}}
 {"id":"la-feature_lock-park_character_quest_invitation-description","data":{"id":"la-feature_lock-park_character_quest_invitation-description","text":"解放条件：ホロメンクエストでホロメンを1人解放"}}
 {"id":"la-feature_lock-park_character_quest_invitation-title","data":{"id":"la-feature_lock-park_character_quest_invitation-title","text":"ホロメン招待"}}
@@ -37,6 +40,8 @@
 {"id":"la-feature_lock-park_character_shop_pen_light-title","data":{"id":"la-feature_lock-park_character_shop_pen_light-title","text":"ペンライトショップ"}}
 {"id":"la-feature_lock-park_daily_quest-title","data":{"id":"la-feature_lock-park_daily_quest-title","text":"デイリークエスト"}}
 {"id":"la-feature_lock-park_emotion-title","data":{"id":"la-feature_lock-park_emotion-title","text":"エモート"}}
+{"id":"la-feature_lock-park_fishing-rod-level-up","data":{"id":"la-feature_lock-park_fishing-rod-level-up","text":"釣り竿強化"}}
+{"id":"la-feature_lock-park_fishing-title","data":{"id":"la-feature_lock-park_fishing-title","text":"さかな釣り"}}
 {"id":"la-feature_lock-park_high_low-title","data":{"id":"la-feature_lock-park_high_low-title","text":"カードオブグリード"}}
 {"id":"la-feature_lock-park_lottery_gachapon-title","data":{"id":"la-feature_lock-park_lottery_gachapon-title","text":"カプセルコング"}}
 {"id":"la-feature_lock-park_lottery_scratch-title","data":{"id":"la-feature_lock-park_lottery_scratch-title","text":"ロトリー・ちゃまちゃマックス"}}
@@ -48,6 +53,7 @@
 {"id":"la-feature_lock-poster-title","data":{"id":"la-feature_lock-poster-title","text":"メモリー"}}
 {"id":"la-feature_lock-skill_tree-description","data":{"id":"la-feature_lock-skill_tree-description","text":"解放条件：メインクエスト6話クリア"}}
 {"id":"la-feature_lock-skill_tree-title","data":{"id":"la-feature_lock-skill_tree-title","text":"ホロメンボード"}}
+{"id":"la-feature_lock-splash_ball","data":{"id":"la-feature_lock-splash_ball","text":"スプラッシュボール"}}
 {"id":"la-feature_lock-story-title","data":{"id":"la-feature_lock-story-title","text":"シアター"}}
 {"id":"la-feature_lock-work-title","data":{"id":"la-feature_lock-work-title","text":"ホロワーク"}}
 {"id":"la-tips-exchange-area02-training-item-title","data":{"id":"la-tips-exchange-area02-training-item-title","text":"素材変換所"}}

@@ -1,5 +1,6 @@
 {"id":"la-quest_chapter-area-a01","data":{"id":"la-quest_chapter-area-a01","text":"ハーモニーガーデン"}}
 {"id":"la-quest_chapter-area-a02","data":{"id":"la-quest_chapter-area-a02","text":"メガスフィア"}}
+{"id":"la-quest_chapter-area-a03","data":{"id":"la-quest_chapter-area-a03","text":"ソーダポップラグーン"}}
 {"id":"la-quest_chapter-chr-00001","data":{"id":"la-quest_chapter-chr-00001","text":"バーチャルアイドルの道"}}
 {"id":"la-quest_chapter-chr-00002","data":{"id":"la-quest_chapter-chr-00002","text":"ゆるふわ高性能？ロボット"}}
 {"id":"la-quest_chapter-chr-00004","data":{"id":"la-quest_chapter-chr-00004","text":"お茶目な癒し系ハーフエルフ"}}
@@ -57,3 +58,4 @@
 {"id":"la-quest_chapter-daily","data":{"id":"la-quest_chapter-daily","text":"デイリークエスト"}}
 {"id":"la-quest_chapter-main-w1-01","data":{"id":"la-quest_chapter-main-w1-01","text":"Circle of Dreams"}}
 {"id":"la-quest_chapter-main-w1-02","data":{"id":"la-quest_chapter-main-w1-02","text":"Into the Mega Fun"}}
+{"id":"la-quest_chapter-main-w1-03","data":{"id":"la-quest_chapter-main-w1-03","text":"Splash of Blue Oasis"}}

@@ -13,6 +13,7 @@
 {"id":"la-achievement_grp-minigame_cooking","data":{"id":"la-achievement_grp-minigame_cooking","text":"そろえてクッキング"}}
 {"id":"la-achievement_grp-minigame_holocard","data":{"id":"la-achievement_grp-minigame_holocard","text":"ポカジャン！"}}
 {"id":"la-achievement_grp-minigame_rope","data":{"id":"la-achievement_grp-minigame_rope","text":"ホッピン・ロープ"}}
+{"id":"la-achievement_grp-minigame_splashball","data":{"id":"la-achievement_grp-minigame_splashball","text":"スプラッシュボール"}}
 {"id":"la-achievement_grp-music","data":{"id":"la-achievement_grp-music","text":"楽曲"}}
 {"id":"la-achievement_grp-photograph","data":{"id":"la-achievement_grp-photograph","text":"撮影"}}
 {"id":"la-achievement_grp-quest","data":{"id":"la-achievement_grp-quest","text":"クエスト"}}
@@ -20,6 +21,7 @@
 {"id":"la-achievement_grp-stamp","data":{"id":"la-achievement_grp-stamp","text":"スタンプ"}}
 {"id":"la-achievement_grp-w1-a01","data":{"id":"la-achievement_grp-w1-a01","text":"ハーモニーガーデン"}}
 {"id":"la-achievement_grp-w1-a02","data":{"id":"la-achievement_grp-w1-a02","text":"メガスフィア"}}
+{"id":"la-achievement_grp-w1-a03","data":{"id":"la-achievement_grp-w1-a03","text":"ソーダポップラグーン"}}
 {"id":"la-achievement_grp-work","data":{"id":"la-achievement_grp-work","text":"ホロワーク"}}
 {"id":"la-short_name-chr-00001","data":{"id":"la-short_name-chr-00001","text":"そら"}}
 {"id":"la-short_name-chr-00002","data":{"id":"la-short_name-chr-00002","text":"ロボ子さん"}}

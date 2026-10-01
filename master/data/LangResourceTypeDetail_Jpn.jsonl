@@ -11,6 +11,7 @@
 {"id":"la-resource_type_detail-emblem-name","data":{"id":"la-resource_type_detail-emblem-name","text":"称号"}}
 {"id":"la-resource_type_detail-fan_mark-description","data":{"id":"la-resource_type_detail-fan_mark-description","text":"メンバーシップに加入すると使用できるファンマークです。"}}
 {"id":"la-resource_type_detail-fan_mark-name","data":{"id":"la-resource_type_detail-fan_mark-name","text":"ファンマーク"}}
+{"id":"la-resource_type_detail-fishingbait-name","data":{"id":"la-resource_type_detail-fishingbait-name","text":"釣りエサ"}}
 {"id":"la-resource_type_detail-gacha_point-description","data":{"id":"la-resource_type_detail-gacha_point-description","text":"ガチャによって獲得できるポイントです。"}}
 {"id":"la-resource_type_detail-gacha_point-name","data":{"id":"la-resource_type_detail-gacha_point-name","text":"ガチャPt"}}
 {"id":"la-resource_type_detail-item-description","data":{"id":"la-resource_type_detail-item-description","text":"各種アイテムです。"}}
