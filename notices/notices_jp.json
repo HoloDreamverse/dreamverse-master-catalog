@@ -21,6 +21,17 @@
      "external_url": ""
     },
     {
+     "id": "notice-news-info-update-261002",
+     "title": "Ver.1.2.1アップデートのお知らせ",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/0d39470c0cfd773cd51b7c49f346dbac90cd04f1cf9a034636745fd3a1ad062f/index.html",
+     "banner_asset_id": "img_banner_full_update-info",
+     "start_time": 1790906400000,
+     "start_time_utc": "2026-10-02T02:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-gift-sales_ranking_1st-gacha-260929",
      "title": "ストアセールスランキング1位達成！",
      "type": 4,
@@ -326,17 +337,6 @@
      "banner_asset_id": "img_banner_full_shop-startdash-release",
      "start_time": 1784685600000,
      "start_time_utc": "2026-07-22T02:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-shop_pass-release",
-     "title": "ホロパスポートなどお得な商品が登場",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/bf63105aec9c356df79c421e782ae4175ade7a1415516fcc53bdd3919cb56d2d/index.html",
-     "banner_asset_id": "img_banner_full_hololive-pass-release",
-     "start_time": 1784772000000,
-     "start_time_utc": "2026-07-23T02:00:00Z",
      "external_url": ""
     }
    ]
