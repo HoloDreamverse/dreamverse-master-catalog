@@ -10,17 +10,6 @@
    "display_type_name": "normal",
    "notices": [
     {
-     "id": "notice-news-birthday-chr-00017-261001",
-     "title": "Happy Birthday！ 戌神ころね",
-     "type": 6,
-     "type_name": "campaign",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/9138cbd2887451527044b11bfadb99310e53dfd54409a03caa37b48d857841d3/index.html",
-     "banner_asset_id": "img_banner_full_birthday-chr-00017-261001",
-     "start_time": 1790780400000,
-     "start_time_utc": "2026-09-30T15:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-info-update-261002",
      "title": "Ver.1.2.1アップデートのお知らせ",
      "type": 3,
@@ -337,6 +326,17 @@
      "banner_asset_id": "img_banner_full_shop-startdash-release",
      "start_time": 1784685600000,
      "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-shop_pass-release",
+     "title": "ホロパスポートなどお得な商品が登場",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/bf63105aec9c356df79c421e782ae4175ade7a1415516fcc53bdd3919cb56d2d/index.html",
+     "banner_asset_id": "img_banner_full_hololive-pass-release",
+     "start_time": 1784772000000,
+     "start_time_utc": "2026-07-23T02:00:00Z",
      "external_url": ""
     }
    ]
