@@ -10,6 +10,17 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-news-birthday-chr-00006-261005",
+     "title": "Happy Birthday！ 白上フブキ",
+     "type": 6,
+     "type_name": "campaign",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/98496b9dfffbaebc7b939745d0bd6fedcfa9d64bc9d53026172e5e875694c0e9/index.html",
+     "banner_asset_id": "img_banner_full_birthday-chr-00006-261005",
+     "start_time": 1791126000000,
+     "start_time_utc": "2026-10-04T15:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-info-update-261002",
      "title": "Ver.1.2.1アップデートのお知らせ",
      "type": 3,
@@ -326,17 +337,6 @@
      "banner_asset_id": "img_banner_full_hololive-pass-release",
      "start_time": 1784772000000,
      "start_time_utc": "2026-07-23T02:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-gacha-common-001",
-     "title": "ホロドリガチャ開催",
-     "type": 1,
-     "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/319a9037398310a9f176fc8d11d8090e3f0f55fa3d0eb4f07226d2fa64cf91f9/index.html",
-     "banner_asset_id": "img_banner_full_gacha-common-001",
-     "start_time": 1784685600000,
-     "start_time_utc": "2026-07-22T02:00:00Z",
      "external_url": ""
     }
    ]
