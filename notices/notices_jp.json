@@ -10,23 +10,23 @@
    "display_type_name": "normal",
    "notices": [
     {
-     "id": "notice-marathon_event-normal-006-pre",
-     "title": "【予告】スコアチャレンジイベント「ゆずれぬオーシャンチェイス」開催！",
-     "type": 2,
-     "type_name": "event",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/4e1d6660b24a49c13d47137071ac3faba38f318cad973bb1730b11a9fb8290c0/index.html",
-     "banner_asset_id": "img_banner_full_marathon_event-normal-006",
-     "start_time": 1791280800000,
-     "start_time_utc": "2026-10-06T10:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-gacha-pickup-261007-pre",
      "title": "【予告】橋を架けるオーシャンクリエイトガチャ開催！",
      "type": 1,
      "type_name": "gacha",
      "detail_url": "https://static.game-hololive-dreams.com/html/notice/2fa02dbfd389179d1642d902669f7c340c62ea0aa81b3abb3f483af6c93e40a8/index.html",
      "banner_asset_id": "img_banner_full_gacha-pickup-261007",
+     "start_time": 1791280800000,
+     "start_time_utc": "2026-10-06T10:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-marathon_event-normal-006-pre",
+     "title": "【予告】スコアチャレンジイベント「ゆずれぬオーシャンチェイス」開催！",
+     "type": 2,
+     "type_name": "event",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/4e1d6660b24a49c13d47137071ac3faba38f318cad973bb1730b11a9fb8290c0/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-normal-006",
      "start_time": 1791280800000,
      "start_time_utc": "2026-10-06T10:00:00Z",
      "external_url": ""
