@@ -1,4 +1,5 @@
 {"id":"la-increment_park_fishing_fish_caught_count","data":{"id":"la-increment_park_fishing_fish_caught_count","text":"魚を{0}匹釣ろう"}}
+{"id":"la-increment_splash_ball_play_count","data":{"id":"la-increment_splash_ball_play_count","text":"スプラッシュボールを{0}回プレイしよう"}}
 {"id":"la-mission-achievement-chr-00001-absolute_card_get_unique_count-description","data":{"id":"la-mission-achievement-chr-00001-absolute_card_get_unique_count-description","text":"メンバーを{0}種類入手"}}
 {"id":"la-mission-achievement-chr-00001-absolute_card_level_limit_break-description","data":{"id":"la-mission-achievement-chr-00001-absolute_card_level_limit_break-description","text":"メンバーを{0}段階まで特訓する"}}
 {"id":"la-mission-achievement-chr-00001-absolute_card_level_sum_by_card_id-description","data":{"id":"la-mission-achievement-chr-00001-absolute_card_level_sum_by_card_id-description","text":"メンバーLvの合計{0}Lvを達成"}}
@@ -1598,7 +1599,7 @@
 {"id":"la-mission-event_mission-area03-release-260929-increment_resource_get_count-item-item-mini_game_fishing_coin","data":{"id":"la-mission-event_mission-area03-release-260929-increment_resource_get_count-item-item-mini_game_fishing_coin","text":"ソーダポップコインを{0}個獲得しよう"}}
 {"id":"la-mission-event_mission-area03-release-260929-increment_splash_ball_defense_score","data":{"id":"la-mission-event_mission-area03-release-260929-increment_splash_ball_defense_score","text":"スプラッシュボールで守備ポイントを{0}ポイント獲得しよう"}}
 {"id":"la-mission-event_mission-area03-release-260929-increment_splash_ball_goal_count","data":{"id":"la-mission-event_mission-area03-release-260929-increment_splash_ball_goal_count","text":"スプラッシュボールで{0}回ゴールしよう"}}
-{"id":"la-mission-event_mission-area03-release-260929-increment_splash_ball_win_count","data":{"id":"la-mission-event_mission-area03-release-260929-increment_splash_ball_win_count","text":"スプラッシュボールで{0}回勝利しよう"}}
+{"id":"la-mission-event_mission-area03-release-260929-increment_splash_ball_win_count","data":{"id":"la-mission-event_mission-area03-release-260929-increment_splash_ball_win_count","text":"スプラッシュボールを{0}回プレイしよう"}}
 {"id":"la-mission-event_mission-area03-release-260929-increment_work_finish_count","data":{"id":"la-mission-event_mission-area03-release-260929-increment_work_finish_count","text":"ホロワークを{0}回完了しよう"}}
 {"id":"la-mission-event_mission-chase_celebration-260828-increment_chase_mischief_team_key_use_count","data":{"id":"la-mission-event_mission-chase_celebration-260828-increment_chase_mischief_team_key_use_count","text":"くらやみチェイスで{0}回鍵を使おう"}}
 {"id":"la-mission-event_mission-chase_celebration-260828-increment_chase_patrol_team_restraint_count","data":{"id":"la-mission-event_mission-chase_celebration-260828-increment_chase_patrol_team_restraint_count","text":"くらやみチェイスで{0}回拘束しよう"}}

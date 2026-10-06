@@ -10,6 +10,28 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-marathon_event-normal-006-pre",
+     "title": "【予告】スコアチャレンジイベント「ゆずれぬオーシャンチェイス」開催！",
+     "type": 2,
+     "type_name": "event",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/4e1d6660b24a49c13d47137071ac3faba38f318cad973bb1730b11a9fb8290c0/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-normal-006",
+     "start_time": 1791280800000,
+     "start_time_utc": "2026-10-06T10:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gacha-pickup-261007-pre",
+     "title": "【予告】橋を架けるオーシャンクリエイトガチャ開催！",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/2fa02dbfd389179d1642d902669f7c340c62ea0aa81b3abb3f483af6c93e40a8/index.html",
+     "banner_asset_id": "img_banner_full_gacha-pickup-261007",
+     "start_time": 1791280800000,
+     "start_time_utc": "2026-10-06T10:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-birthday-chr-00006-261005",
      "title": "Happy Birthday！ 白上フブキ",
      "type": 6,
@@ -316,28 +338,6 @@
      "start_time": 1784685600000,
      "start_time_utc": "2026-07-22T02:00:00Z",
      "external_url": ""
-    },
-    {
-     "id": "notice-news-shop_startdash-release",
-     "title": "リリースを記念して期間限定パックが登場",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/487a2fcc40edfe31f5035aa5bb474e69d3544afa1f6629c62e19d2c15e4ff8e1/index.html",
-     "banner_asset_id": "img_banner_full_shop-startdash-release",
-     "start_time": 1784685600000,
-     "start_time_utc": "2026-07-22T02:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-shop_pass-release",
-     "title": "ホロパスポートなどお得な商品が登場",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/bf63105aec9c356df79c421e782ae4175ade7a1415516fcc53bdd3919cb56d2d/index.html",
-     "banner_asset_id": "img_banner_full_hololive-pass-release",
-     "start_time": 1784772000000,
-     "start_time_utc": "2026-07-23T02:00:00Z",
-     "external_url": ""
     }
    ]
   },
@@ -348,22 +348,22 @@
    "display_type_name": "normal",
    "notices": [
     {
-     "id": "notice-mal-list-confirmed",
-     "title": "現在確認している不具合",
+     "id": "notice-mal-list-fixed",
+     "title": "修正済みの不具合",
      "type": 100,
      "type_name": "bug",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/7a4efcfb7671b1e549e23af1c0ec476554f099afbd25b9551232275accb3ca55/index.html",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/25feace90fa4677e138fe3be81f690fbfdc7788056ac4262c34b6e0e34f236ea/index.html",
      "banner_asset_id": "",
      "start_time": 1787875200000,
      "start_time_utc": "2026-08-28T00:00:00Z",
      "external_url": ""
     },
     {
-     "id": "notice-mal-list-fixed",
-     "title": "修正済みの不具合",
+     "id": "notice-mal-list-confirmed",
+     "title": "現在確認している不具合",
      "type": 100,
      "type_name": "bug",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/5689d322f3eb3d5b810021f2bd24920f822ce99f9282f7e9058b2f72a9529659/index.html",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/7a4efcfb7671b1e549e23af1c0ec476554f099afbd25b9551232275accb3ca55/index.html",
      "banner_asset_id": "",
      "start_time": 1787875200000,
      "start_time_utc": "2026-08-28T00:00:00Z",
