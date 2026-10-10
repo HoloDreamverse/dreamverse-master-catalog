@@ -142,17 +142,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-gacha-area03-select-260929",
-     "title": "新エリア追加記念！選べる！★5メンバーガチャ開催！",
-     "type": 1,
-     "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/099637ac62d0ec6384dbdd856aaf5c518686c537a77b11981f633a15cc837ac2/index.html",
-     "banner_asset_id": "img_banner_full_gacha-area03-260929",
-     "start_time": 1790629200000,
-     "start_time_utc": "2026-09-28T21:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-shop-stone-area03_celebration-260929",
      "title": "新エリア追加を記念して期間限定パックが登場",
      "type": 4,
@@ -335,6 +324,17 @@
      "type_name": "gacha",
      "detail_url": "https://static.game-hololive-dreams.com/html/notice/edc924dfbc71c0e5da9f8af382c0f3114313edf464877df57cc9872dffe580c8/index.html",
      "banner_asset_id": "img_banner_full_gacha-beginner-select-001",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-shop_startdash-release",
+     "title": "リリースを記念して期間限定パックが登場",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/487a2fcc40edfe31f5035aa5bb474e69d3544afa1f6629c62e19d2c15e4ff8e1/index.html",
+     "banner_asset_id": "img_banner_full_shop-startdash-release",
      "start_time": 1784685600000,
      "start_time_utc": "2026-07-22T02:00:00Z",
      "external_url": ""
