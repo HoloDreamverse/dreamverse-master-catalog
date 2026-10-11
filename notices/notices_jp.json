@@ -109,17 +109,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-marathon_event-normal-005",
-     "title": "スコアチャレンジイベント「わくわくブルースプラッシュ！」開催！",
-     "type": 2,
-     "type_name": "event",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/883b03473c190ee09913a2ce468e5c8ccdb4f097d5dce72bdd44b6d599580d6e/index.html",
-     "banner_asset_id": "img_banner_full_marathon_event-normal-005",
-     "start_time": 1790650800000,
-     "start_time_utc": "2026-09-29T03:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-login_bonus-event-260929",
      "title": "新エリア追加記念ログインボーナス開催！",
      "type": 6,
@@ -337,6 +326,17 @@
      "banner_asset_id": "img_banner_full_shop-startdash-release",
      "start_time": 1784685600000,
      "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-shop_pass-release",
+     "title": "ホロパスポートなどお得な商品が登場",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/bf63105aec9c356df79c421e782ae4175ade7a1415516fcc53bdd3919cb56d2d/index.html",
+     "banner_asset_id": "img_banner_full_hololive-pass-release",
+     "start_time": 1784772000000,
+     "start_time_utc": "2026-07-23T02:00:00Z",
      "external_url": ""
     }
    ]
