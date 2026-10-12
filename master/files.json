@@ -1580,8 +1580,8 @@
   "masterVersion": "65badf8533aacbc04382f97f0f5f56740e761e6f5be6172d8440ae9061deebe7",
   "notices": {
     "notices/notices_jp.json": {
-      "bytes": 18558,
-      "sha256": "38de19b74838e9b5374021cd163288445d497dfee3c9a08ee2d5eb4434abfa7a"
+      "bytes": 18597,
+      "sha256": "2a43011275ad193e2c62e376b5347333db7d19de11da6d48b63d27129eecb784"
     }
   },
   "region": "jp",
