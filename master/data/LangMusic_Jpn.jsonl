@@ -203,6 +203,10 @@
 {"id":"la-music_arranger-m0361","data":{"id":"la-music_arranger-m0361","text":"まろん (IOSYS)"}}
 {"id":"la-music_arranger-m0362","data":{"id":"la-music_arranger-m0362"}}
 {"id":"la-music_arranger-m0363","data":{"id":"la-music_arranger-m0363","text":"椎乃味醂"}}
+{"id":"la-music_arranger-m0365","data":{"id":"la-music_arranger-m0365","text":"傳田有矢（EverNest）"}}
+{"id":"la-music_arranger-m0366","data":{"id":"la-music_arranger-m0366","text":"山下 僚海(SUPA LOVE)"}}
+{"id":"la-music_arranger-m0367","data":{"id":"la-music_arranger-m0367","text":"太嘉志・猟平"}}
+{"id":"la-music_arranger-m0368","data":{"id":"la-music_arranger-m0368","text":"玉木千尋"}}
 {"id":"la-music_arranger-m0375","data":{"id":"la-music_arranger-m0375","text":"Giga"}}
 {"id":"la-music_arranger-m0376","data":{"id":"la-music_arranger-m0376","text":"TOKOTOKO"}}
 {"id":"la-music_arranger-m0377","data":{"id":"la-music_arranger-m0377","text":"立秋"}}
@@ -419,6 +423,10 @@
 {"id":"la-music_arranger_ruby-m0361","data":{"id":"la-music_arranger_ruby-m0361","text":"まろんいおしす"}}
 {"id":"la-music_arranger_ruby-m0362","data":{"id":"la-music_arranger_ruby-m0362"}}
 {"id":"la-music_arranger_ruby-m0363","data":{"id":"la-music_arranger_ruby-m0363","text":"しいのみりん"}}
+{"id":"la-music_arranger_ruby-m0365","data":{"id":"la-music_arranger_ruby-m0365","text":"でんだゆうや"}}
+{"id":"la-music_arranger_ruby-m0366","data":{"id":"la-music_arranger_ruby-m0366","text":"やましたりょうみ"}}
+{"id":"la-music_arranger_ruby-m0367","data":{"id":"la-music_arranger_ruby-m0367","text":"たかしりょうへい"}}
+{"id":"la-music_arranger_ruby-m0368","data":{"id":"la-music_arranger_ruby-m0368","text":"たまきちひろ"}}
 {"id":"la-music_arranger_ruby-m0375","data":{"id":"la-music_arranger_ruby-m0375","text":"ぎが"}}
 {"id":"la-music_arranger_ruby-m0376","data":{"id":"la-music_arranger_ruby-m0376","text":"とことこ"}}
 {"id":"la-music_arranger_ruby-m0377","data":{"id":"la-music_arranger_ruby-m0377","text":"りっしゅう"}}
@@ -635,6 +643,10 @@
 {"id":"la-music_composer-m0361","data":{"id":"la-music_composer-m0361","text":"まろん (IOSYS)"}}
 {"id":"la-music_composer-m0362","data":{"id":"la-music_composer-m0362","text":"ツミキ"}}
 {"id":"la-music_composer-m0363","data":{"id":"la-music_composer-m0363","text":"椎乃味醂"}}
+{"id":"la-music_composer-m0365","data":{"id":"la-music_composer-m0365","text":"本多友紀（EverNest）"}}
+{"id":"la-music_composer-m0366","data":{"id":"la-music_composer-m0366","text":"山下 僚海(SUPA LOVE)"}}
+{"id":"la-music_composer-m0367","data":{"id":"la-music_composer-m0367","text":"太嘉志・猟平"}}
+{"id":"la-music_composer-m0368","data":{"id":"la-music_composer-m0368","text":"Ryota Saito、玉木千尋"}}
 {"id":"la-music_composer-m0375","data":{"id":"la-music_composer-m0375","text":"Giga"}}
 {"id":"la-music_composer-m0376","data":{"id":"la-music_composer-m0376","text":"TOKOTOKO"}}
 {"id":"la-music_composer-m0377","data":{"id":"la-music_composer-m0377","text":"立秋"}}
@@ -851,6 +863,10 @@
 {"id":"la-music_composer_ruby-m0361","data":{"id":"la-music_composer_ruby-m0361","text":"まろんいおしす"}}
 {"id":"la-music_composer_ruby-m0362","data":{"id":"la-music_composer_ruby-m0362","text":"つみき"}}
 {"id":"la-music_composer_ruby-m0363","data":{"id":"la-music_composer_ruby-m0363","text":"しいのみりん"}}
+{"id":"la-music_composer_ruby-m0365","data":{"id":"la-music_composer_ruby-m0365","text":"ほんだゆうき"}}
+{"id":"la-music_composer_ruby-m0366","data":{"id":"la-music_composer_ruby-m0366","text":"やましたりょうみ"}}
+{"id":"la-music_composer_ruby-m0367","data":{"id":"la-music_composer_ruby-m0367","text":"たかしりょうへい"}}
+{"id":"la-music_composer_ruby-m0368","data":{"id":"la-music_composer_ruby-m0368","text":"さいとうりょうたたまきちひろ"}}
 {"id":"la-music_composer_ruby-m0375","data":{"id":"la-music_composer_ruby-m0375","text":"ぎが"}}
 {"id":"la-music_composer_ruby-m0376","data":{"id":"la-music_composer_ruby-m0376","text":"とことこ"}}
 {"id":"la-music_composer_ruby-m0377","data":{"id":"la-music_composer_ruby-m0377","text":"りっしゅう"}}
@@ -1124,6 +1140,10 @@
 {"id":"la-music_lyricist-m0361","data":{"id":"la-music_lyricist-m0361","text":"まろん (IOSYS)"}}
 {"id":"la-music_lyricist-m0362","data":{"id":"la-music_lyricist-m0362","text":"ツミキ"}}
 {"id":"la-music_lyricist-m0363","data":{"id":"la-music_lyricist-m0363","text":"椎乃味醂"}}
+{"id":"la-music_lyricist-m0365","data":{"id":"la-music_lyricist-m0365","text":"本多友紀（EverNest）"}}
+{"id":"la-music_lyricist-m0366","data":{"id":"la-music_lyricist-m0366","text":"山下 僚海(SUPA LOVE)"}}
+{"id":"la-music_lyricist-m0367","data":{"id":"la-music_lyricist-m0367","text":"太嘉志・猟平"}}
+{"id":"la-music_lyricist-m0368","data":{"id":"la-music_lyricist-m0368","text":"Ryota Saito"}}
 {"id":"la-music_lyricist-m0375","data":{"id":"la-music_lyricist-m0375","text":"夕野ヨシミ(IOSYS)"}}
 {"id":"la-music_lyricist-m0376","data":{"id":"la-music_lyricist-m0376","text":"TOKOTOKO"}}
 {"id":"la-music_lyricist-m0377","data":{"id":"la-music_lyricist-m0377","text":"立秋"}}
@@ -1340,6 +1360,10 @@
 {"id":"la-music_lyricist_ruby-m0361","data":{"id":"la-music_lyricist_ruby-m0361","text":"まろんいおしす"}}
 {"id":"la-music_lyricist_ruby-m0362","data":{"id":"la-music_lyricist_ruby-m0362","text":"つみき"}}
 {"id":"la-music_lyricist_ruby-m0363","data":{"id":"la-music_lyricist_ruby-m0363","text":"しいのみりん"}}
+{"id":"la-music_lyricist_ruby-m0365","data":{"id":"la-music_lyricist_ruby-m0365","text":"ほんだゆうき"}}
+{"id":"la-music_lyricist_ruby-m0366","data":{"id":"la-music_lyricist_ruby-m0366","text":"やましたりょうみ"}}
+{"id":"la-music_lyricist_ruby-m0367","data":{"id":"la-music_lyricist_ruby-m0367","text":"たかしりょうへい"}}
+{"id":"la-music_lyricist_ruby-m0368","data":{"id":"la-music_lyricist_ruby-m0368","text":"さいとうりょうた"}}
 {"id":"la-music_lyricist_ruby-m0375","data":{"id":"la-music_lyricist_ruby-m0375","text":"ゆうのよしみいおしす"}}
 {"id":"la-music_lyricist_ruby-m0376","data":{"id":"la-music_lyricist_ruby-m0376","text":"とことこ"}}
 {"id":"la-music_lyricist_ruby-m0377","data":{"id":"la-music_lyricist_ruby-m0377","text":"りっしゅう"}}
@@ -1556,6 +1580,10 @@
 {"id":"la-music_title-m0361","data":{"id":"la-music_title-m0361","text":"ラミィズバリバリワークアウト"}}
 {"id":"la-music_title-m0362","data":{"id":"la-music_title-m0362","text":"トウキョウ・シャンディ・ランデヴ"}}
 {"id":"la-music_title-m0363","data":{"id":"la-music_title-m0363","text":"シミュラクル"}}
+{"id":"la-music_title-m0365","data":{"id":"la-music_title-m0365","text":"Shallow Shadow"}}
+{"id":"la-music_title-m0366","data":{"id":"la-music_title-m0366","text":"アマリリス"}}
+{"id":"la-music_title-m0367","data":{"id":"la-music_title-m0367","text":"CORE//UNBREAKABLE"}}
+{"id":"la-music_title-m0368","data":{"id":"la-music_title-m0368","text":"Forge My Soul"}}
 {"id":"la-music_title-m0375","data":{"id":"la-music_title-m0375","text":"Wonky Monkey"}}
 {"id":"la-music_title-m0376","data":{"id":"la-music_title-m0376","text":"KONKON Beats"}}
 {"id":"la-music_title-m0377","data":{"id":"la-music_title-m0377","text":"ぐるぐる@まわる@まわルーナ"}}
@@ -1772,6 +1800,10 @@
 {"id":"la-music_title_ruby-m0361","data":{"id":"la-music_title_ruby-m0361","text":"らみぃずばりばりわーくあうと"}}
 {"id":"la-music_title_ruby-m0362","data":{"id":"la-music_title_ruby-m0362","text":"とうきょうしゃんでぃらんでう゛"}}
 {"id":"la-music_title_ruby-m0363","data":{"id":"la-music_title_ruby-m0363","text":"しみゅらくる"}}
+{"id":"la-music_title_ruby-m0365","data":{"id":"la-music_title_ruby-m0365","text":"しゃろうしゃどう"}}
+{"id":"la-music_title_ruby-m0366","data":{"id":"la-music_title_ruby-m0366","text":"あまりりす"}}
+{"id":"la-music_title_ruby-m0367","data":{"id":"la-music_title_ruby-m0367","text":"こああんぶれいかぶる"}}
+{"id":"la-music_title_ruby-m0368","data":{"id":"la-music_title_ruby-m0368","text":"ふぉーじまいそうる"}}
 {"id":"la-music_title_ruby-m0375","data":{"id":"la-music_title_ruby-m0375","text":"うぉんきーもんきー"}}
 {"id":"la-music_title_ruby-m0376","data":{"id":"la-music_title_ruby-m0376","text":"こんこんびーつ"}}
 {"id":"la-music_title_ruby-m0377","data":{"id":"la-music_title_ruby-m0377","text":"ぐるぐるまわるまわるーな"}}
@@ -1988,6 +2020,10 @@
 {"id":"la-singer_name-m0361","data":{"id":"la-singer_name-m0361","text":"雪花ラミィ"}}
 {"id":"la-singer_name-m0362","data":{"id":"la-singer_name-m0362","text":"一条莉々華"}}
 {"id":"la-singer_name-m0363","data":{"id":"la-singer_name-m0363","text":"獅白ぼたん"}}
+{"id":"la-singer_name-m0365","data":{"id":"la-singer_name-m0365","text":"常闇トワ"}}
+{"id":"la-singer_name-m0366","data":{"id":"la-singer_name-m0366","text":"獅白ぼたん"}}
+{"id":"la-singer_name-m0367","data":{"id":"la-singer_name-m0367","text":"Koseki Bijou"}}
+{"id":"la-singer_name-m0368","data":{"id":"la-singer_name-m0368","text":"Kaela Kovalskia"}}
 {"id":"la-singer_name-m0375","data":{"id":"la-singer_name-m0375","text":"戌神ころね     "}}
 {"id":"la-singer_name-m0376","data":{"id":"la-singer_name-m0376","text":"白上フブキ"}}
 {"id":"la-singer_name-m0377","data":{"id":"la-singer_name-m0377","text":"姫森ルーナ"}}
@@ -2204,6 +2240,10 @@
 {"id":"la-singer_name_ruby-m0361","data":{"id":"la-singer_name_ruby-m0361","text":"ゆきはならみぃ"}}
 {"id":"la-singer_name_ruby-m0362","data":{"id":"la-singer_name_ruby-m0362","text":"いちじょうりりか"}}
 {"id":"la-singer_name_ruby-m0363","data":{"id":"la-singer_name_ruby-m0363","text":"ししろぼたん"}}
+{"id":"la-singer_name_ruby-m0365","data":{"id":"la-singer_name_ruby-m0365","text":"とこやみとわ"}}
+{"id":"la-singer_name_ruby-m0366","data":{"id":"la-singer_name_ruby-m0366","text":"ししろぼたん"}}
+{"id":"la-singer_name_ruby-m0367","data":{"id":"la-singer_name_ruby-m0367","text":"こせきびじゅう"}}
+{"id":"la-singer_name_ruby-m0368","data":{"id":"la-singer_name_ruby-m0368","text":"かえらこゔぁるすきあ"}}
 {"id":"la-singer_name_ruby-m0375","data":{"id":"la-singer_name_ruby-m0375","text":"いぬがみころね"}}
 {"id":"la-singer_name_ruby-m0376","data":{"id":"la-singer_name_ruby-m0376","text":"しらかみふぶき"}}
 {"id":"la-singer_name_ruby-m0377","data":{"id":"la-singer_name_ruby-m0377","text":"ひめもりるーな"}}

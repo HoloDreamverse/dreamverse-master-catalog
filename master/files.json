@@ -1,6 +1,10 @@
 {
   "appVersion": "1.2.1",
   "catalog": {
+    "catalog/catalog_jp_rev101.redacted.json": {
+      "bytes": 12647616,
+      "sha256": "2bdaa94e59426d6d72de37bdee289bf0de92963110909c9e9a9fd303ba681e4b"
+    },
     "catalog/catalog_jp_rev69.redacted.json": {
       "bytes": 11027436,
       "sha256": "c3231f235a5d4f855c0c8f241150c1d00b5842a3d138c6d152af5f3d797a2f03"
@@ -120,8 +124,8 @@
       "sha256": "8d4b15b3650a8d5d78a97e4e01a065188e76aa97439b971711c467f5e62adc7c"
     },
     "master/data/Card.jsonl": {
-      "bytes": 266354,
-      "sha256": "52c58d4c27fd73a859131ef9f5204a8630b84a2e37dcc45f4cf49e56ca3a1e8a"
+      "bytes": 274016,
+      "sha256": "0891002608ca7549ff0aaefa9abbd3f135437fad983bffc81b541743a6af0293"
     },
     "master/data/CardLevel.jsonl": {
       "bytes": 323979,
@@ -160,8 +164,8 @@
       "sha256": "56c15b27f51c8e16e7ab66b612c6192864e4cf93be2e4373b9c6b4778ef2ebf4"
     },
     "master/data/CharacterLiveDialogueVoice.jsonl": {
-      "bytes": 1501896,
-      "sha256": "0dc510b728822b41180aecfb3d654119e548eb35e9358e46e9b5b4bd321c4e1e"
+      "bytes": 1517576,
+      "sha256": "95c3caec6682098edc4f25dfad7f9b01f4e097a8896960d1bf6df0d2fbbe23ee"
     },
     "master/data/CharacterMotion.jsonl": {
       "bytes": 265430,
@@ -172,12 +176,12 @@
       "sha256": "350176503ce8a42eec035814741b1d66391e7694804b6a4e3df5a55452ede2a9"
     },
     "master/data/CharacterStory.jsonl": {
-      "bytes": 21152,
-      "sha256": "8e6c56d94b05601d2c9c19a6254f60c61fb51b7efb40d1ce703326d3743fa0d6"
+      "bytes": 22288,
+      "sha256": "2ced42fc50f898796dc272db0c3332c5b50335a386d7b15904465f9791ecbd33"
     },
     "master/data/CharacterVoice.jsonl": {
-      "bytes": 8164432,
-      "sha256": "d587c9c401605604a6e2ac83761e81c0aeb1b0f97832fd4897c3d66feadf969e"
+      "bytes": 8230572,
+      "sha256": "0119502a128ef84c12eb638a5302693fd02cab9c8fe81594743429fbb31ba7e7"
     },
     "master/data/CharacterVoiceCategory.jsonl": {
       "bytes": 587,
@@ -200,8 +204,8 @@
       "sha256": "c8ee468c78cc66b743b7970a42b190862656dc422676fcf8ca474d14aa367c3a"
     },
     "master/data/Cheat.jsonl": {
-      "bytes": 14274,
-      "sha256": "927e526c57ca12166619bf4959fe350cf8f417fbcc2639874e0c751449f62bc1"
+      "bytes": 15021,
+      "sha256": "6056b2f3420600452818d425e8e36562ab6a795568f2ced653eec53c1d8c4b72"
     },
     "master/data/Circuit.jsonl": {
       "bytes": 867,
@@ -256,8 +260,8 @@
       "sha256": "ca0274f40f44b7715ce0d556cf8e3a78072cc3f64881a419a043c92ea6a33a02"
     },
     "master/data/Condition.jsonl": {
-      "bytes": 755808,
-      "sha256": "442e3e366ecf7f1bbbe24058e8ee80dc869be30d3f2fb60608efd55590b62a35"
+      "bytes": 768439,
+      "sha256": "6b4d8bf70a7745b4957f0ccb69be62191684a0792df2c8f25bffb669e238b155"
     },
     "master/data/CookingPuzzle.jsonl": {
       "bytes": 2976,
@@ -292,8 +296,8 @@
       "sha256": "adfc19447fb8144cbc1d7c77faf29e487a65515e00e8998d41c2e37cf335f5b8"
     },
     "master/data/Costume.jsonl": {
-      "bytes": 66728,
-      "sha256": "a4d883fbe3e78ed2e44a544436c9a3d5ba137a5efb1e7111c167de5ee25f1c7e"
+      "bytes": 68268,
+      "sha256": "4b07957cb0c2a68f1f1316c576c03b9fa8c0dceeb65e98653b7f9bfa6abef9f8"
     },
     "master/data/Country.jsonl": {
       "bytes": 7378,
@@ -308,28 +312,28 @@
       "sha256": "ca63c3013c37305cb31b41ca8bfec0354c2601a4ff9c686cd1b798ccf32409a9"
     },
     "master/data/Emblem.jsonl": {
-      "bytes": 286976,
-      "sha256": "5f54f1680a919cc8d5ce5e0d3f05cb0ba306ad9ed9e29ed2baad862976ea80a5"
+      "bytes": 305912,
+      "sha256": "7bfaaf0113f98b64547a66e28a05d1fe83ed255e9d9f34b6fec5ca61f505416f"
     },
     "master/data/EventStory.jsonl": {
-      "bytes": 12766,
-      "sha256": "4d05b723a19c6594d3038eb5929afba4d42a69bb1a77195ce333188115c9abfa"
+      "bytes": 16574,
+      "sha256": "9d1e7a91ddbe891aecec68f4570adb10fb88fd700331d885788fc4ca180eeb2d"
     },
     "master/data/EventStoryChapter.jsonl": {
-      "bytes": 3751,
-      "sha256": "eef8527eabc1578d62a8d8b5fa9445be195f889122af8eae5e354194cbab696e"
+      "bytes": 5131,
+      "sha256": "12af9384f9c8a714f6d95e9c5c72814da2312e8ee9c145406e7a7609652e0edb"
     },
     "master/data/ExchangeBooth.jsonl": {
-      "bytes": 35199,
-      "sha256": "6053515ec52f2da46ba3fa6be11d6086319605fbf60b2bcf4ba0b881216ee8b5"
+      "bytes": 35915,
+      "sha256": "227b4c5f00650f0e109866695227daa2ac12cf62263375a121cc42945da5ab7a"
     },
     "master/data/ExchangeBoothFixedItem.jsonl": {
-      "bytes": 396280,
-      "sha256": "803532386fbe29687e2013c538a5a13d78f8b0ae113633e2603f699f8fdac991"
+      "bytes": 412962,
+      "sha256": "1825ba7957df1101d34c9eb047fa3f9fddd3d11b9e961c7e2de9b5b85d88bac8"
     },
     "master/data/ExchangeBoothGroup.jsonl": {
-      "bytes": 8747,
-      "sha256": "b227a1d93554648ab2fe5458978845629cfe1f5720d09c2496bc83da098a8f8b"
+      "bytes": 8971,
+      "sha256": "4665a1512c80afea1c28977aaad039d63c9cec6233e84d7c30b21c06c540da1a"
     },
     "master/data/Facility.jsonl": {
       "bytes": 20254,
@@ -356,8 +360,8 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     "master/data/Gacha.jsonl": {
-      "bytes": 1773,
-      "sha256": "749d91e7e3744ed87bc10aed10d6157c0cd2318c84d8b9dbbb68bc93fbc56dc4"
+      "bytes": 1931,
+      "sha256": "3f615f457244d0c9bac6a50594580aab850c740c5e72a6827ca90f0d5da6d002"
     },
     "master/data/GachaAnimationFake.jsonl": {
       "bytes": 9499,
@@ -376,12 +380,12 @@
       "sha256": "e652f4df1b3ee0014a02e55091d3e9cf4f4941b0cf70eef90d4cc790746d4949"
     },
     "master/data/GachaButton.jsonl": {
-      "bytes": 9048,
-      "sha256": "66e02830f603af4027e70bc7296977e6aa416e6880e531712c0ef9d81532a1b4"
+      "bytes": 9948,
+      "sha256": "fcf24ea48d605afcab873fbe7b5e53963676d995d633ca72f54edbf0746bc840"
     },
     "master/data/GachaPoint.jsonl": {
-      "bytes": 2608,
-      "sha256": "d43f9b87b5036584d46b2701ec47b2978c0ae4a20ef11d7d8a94a7df2939011d"
+      "bytes": 2844,
+      "sha256": "680103600dc66db35c1391a58544195fffec7f6f82da6749b3b4f9cc3e90d20a"
     },
     "master/data/GameTitle.jsonl": {
       "bytes": 178,
@@ -404,8 +408,8 @@
       "sha256": "be9fe593cf6b0a77b3bf4ffefb7bbb287ca9b0152088534f3195ce69b7737ed8"
     },
     "master/data/Item.jsonl": {
-      "bytes": 58897,
-      "sha256": "0778f7364255661299e6084a5878eeab4e2c0e82abebfd91acb0e344394988e2"
+      "bytes": 62029,
+      "sha256": "fe6f880fcc998c01c4965c71a301d95728b407aee93c54562d47ecea7c36ea66"
     },
     "master/data/ItemLimit.jsonl": {
       "bytes": 1363,
@@ -476,8 +480,8 @@
       "sha256": "196cc77a589fc91a55655ca618abd2a2cfe8193d275a2b49df87766a107b9270"
     },
     "master/data/LangCard_Jpn.jsonl": {
-      "bytes": 25296,
-      "sha256": "a57b9cff041ae9e5685a2f0a1ca9baa2b7b4f81bb77db6f9bfedd1bb82c9cf83"
+      "bytes": 25849,
+      "sha256": "69f0171aadc8c58c548acb341a886041a151a4919f32bd89dccb882d2bb53463"
     },
     "master/data/LangCharacterGrouping_Jpn.jsonl": {
       "bytes": 2639,
@@ -492,16 +496,16 @@
       "sha256": "273b88df20eb30d76974ddf449d23559c7417e9358e690ebf37e1fd53b0515c3"
     },
     "master/data/LangCharacterStory_Jpn.jsonl": {
-      "bytes": 8809,
-      "sha256": "e62d903cf34ad301ca823efa69188a3f66afc01779986ec48075a3d15ce57211"
+      "bytes": 9393,
+      "sha256": "71ffa71948fa1413777f9ec28d73aad53a974c203b6cb36281e1381919ec3baf"
     },
     "master/data/LangCharacterVoiceCategory_Jpn.jsonl": {
       "bytes": 456,
       "sha256": "2740947fc87ce5ed3b19940cf10fda05cec67075d5cee151355d9b2ca91388d6"
     },
     "master/data/LangCharacterVoice_Jpn.jsonl": {
-      "bytes": 4738082,
-      "sha256": "fd069e23c65fe02f85a47c1978de3810db834b2797bd7e726ff9e3f5d08eaac6"
+      "bytes": 4788414,
+      "sha256": "fe1be53eeb10282b4307609072cf8b2da8e23cb689365e34f86287fb743de168"
     },
     "master/data/LangCharacter_Jpn.jsonl": {
       "bytes": 59478,
@@ -544,8 +548,8 @@
       "sha256": "ccd0555eb9f0cf4a410ea9da21ac860413c0733f845955719be7fcb0a3900f6a"
     },
     "master/data/LangCostume_Jpn.jsonl": {
-      "bytes": 22057,
-      "sha256": "bb0ed2fd36eb4ae64445b495670e4363ea4634606811a14ba03618bc3af483ea"
+      "bytes": 22525,
+      "sha256": "8e1688b8e613bf24e4e618a72a8a0ea581af2cad4b34e8e045c634151a1c5f2c"
     },
     "master/data/LangCountry_Jpn.jsonl": {
       "bytes": 6462,
@@ -560,16 +564,16 @@
       "sha256": "cecf09d6af345beac8a5c626192cb64dc505778f28e0f66b2d7c3d8786ba4271"
     },
     "master/data/LangEmblem_Jpn.jsonl": {
-      "bytes": 189834,
-      "sha256": "81e6a6b4eada6848574d2efc695132aee927f982fd60ce827c8f62d335bfb4a2"
+      "bytes": 201186,
+      "sha256": "e0d34eff17bd05c922c52f98bb55af2d3a2bbf76e123a186598808037764dcd3"
     },
     "master/data/LangEventStoryChapter_Jpn.jsonl": {
-      "bytes": 2132,
-      "sha256": "2b04dc87e03e4c36e226ed394b117d7dc2b206552fd5612499e09ae176993168"
+      "bytes": 2924,
+      "sha256": "65e4332215becf9c6b5cf45bf9f744d0d3ad671386759f9439f3f1ce31e372fb"
     },
     "master/data/LangEventStory_Jpn.jsonl": {
-      "bytes": 5609,
-      "sha256": "0b356ae6a216986cc035890998386cadd159c4d0f84f949b5538b9b55cd02c33"
+      "bytes": 7115,
+      "sha256": "f31d26da4fe959cde3920905cfbec3925ca0d19637e83c501e55a3a150df6cc5"
     },
     "master/data/LangFacilityAppearance_Jpn.jsonl": {
       "bytes": 4793,
@@ -592,28 +596,28 @@
       "sha256": "87414fac511495b0e35f52d51db17822d4bc28a7cabe34fc83cee5f1b9b69d5d"
     },
     "master/data/LangGachaPoint_Jpn.jsonl": {
-      "bytes": 1500,
-      "sha256": "6c9735819ea5c7aba65d38b1b440c8b8e1d8f6ef792bf4366ad9ae4cbeb80430"
+      "bytes": 1637,
+      "sha256": "fb630d18059f44c30d97743d176d9ea030abace4f7608437a3fc8d29c6a537b0"
     },
     "master/data/LangGeneratedLiveActiveSkillEffect_Jpn.jsonl": {
       "bytes": 12412,
       "sha256": "70a1260979e216ca945d132a4ce4323978146dc379de7206a8320330ce038c5c"
     },
     "master/data/LangGeneratedLiveActiveSkillLevel_Jpn.jsonl": {
-      "bytes": 102541,
-      "sha256": "dcb5c8daf1c044fa620e3c88e366402104f68c451d6560a39854846e67a01518"
+      "bytes": 104418,
+      "sha256": "aff9865dbf0f4e43f1ee9eb5a8d6503a80f6f3ead9d0239bdfc3dc3a7752e000"
     },
     "master/data/LangGeneratedLiveLeaderSkill_Jpn.jsonl": {
-      "bytes": 44585,
-      "sha256": "2ae44d32954167f175c821119c5b89b82170ab8f2dac3522612d91508b5a7809"
+      "bytes": 45778,
+      "sha256": "94aeea4f9ff9a35eff7c6bda6e38c7d936079d8510af086f60092b5f5f20ed46"
     },
     "master/data/LangGeneratedLivePassiveSkillEffect_Jpn.jsonl": {
-      "bytes": 66778,
-      "sha256": "7791af3fd9687880af37838d4022210c98de541fb37ff82b8fdaeea8ef3c5a45"
+      "bytes": 67864,
+      "sha256": "16b9f124e46fd226752239ea0115203c522d41af139fcf5a629878fd090a3e21"
     },
     "master/data/LangGeneratedLivePassiveSkillLevel_Jpn.jsonl": {
-      "bytes": 108284,
-      "sha256": "6ef78c092125ecbbc59fc50497066052f483da2a26617fa8df7a6d53081b0fc3"
+      "bytes": 110456,
+      "sha256": "1c6ba090051065482b5f7d8fc9e443a40fe9d55b877ee292b9286637901f5e6a"
     },
     "master/data/LangGeneratedLiveSkillEffectTarget_Jpn.jsonl": {
       "bytes": 18168,
@@ -624,8 +628,8 @@
       "sha256": "f7b51e9382a4d9d13702ecafbc8839a10d65c26745fd8dd25194a7d5c43f6140"
     },
     "master/data/LangGeneratedLiveSpecialSkillLevel_Jpn.jsonl": {
-      "bytes": 97190,
-      "sha256": "eaae20a3a10cd613c7e139025c40f923bfa1a714917280f6589700a8bd5f7f32"
+      "bytes": 99436,
+      "sha256": "5258f48fbaa2ee07ba58678c05b9d02abb7e4c8837bf8f4890e3d25f5a4ead10"
     },
     "master/data/LangGeneratedSkillTreeConnectEffect_Jpn.jsonl": {
       "bytes": 14193,
@@ -640,8 +644,8 @@
       "sha256": "a9ef9d3004a0043c022771e60e7c75ad56b02d616061afbb98369bf894a19a26"
     },
     "master/data/LangGeneratedSkillTreeEffect_Jpn.jsonl": {
-      "bytes": 45792,
-      "sha256": "efcee7800acbe5e9271add0c697adf2e3d26d0d5a4fd6b1c2c6cc5ecd72c9569"
+      "bytes": 45789,
+      "sha256": "87dd2f8a1cfdd5dfa3faea8846ff624890f19df77c33e83f39609d5a337b0469"
     },
     "master/data/LangHelpCategory_Jpn.jsonl": {
       "bytes": 2632,
@@ -664,8 +668,8 @@
       "sha256": "70f9579415f15aa1b4d76652127c5e41a92bb42fd5abe419ed1eb63da3e4f8c9"
     },
     "master/data/LangItem_Jpn.jsonl": {
-      "bytes": 48398,
-      "sha256": "47721a338c5df86a4a71202b01e962d20dfde8fcc87645d37e5ea7f9f957e32f"
+      "bytes": 50799,
+      "sha256": "95aa1da27f2cae8d36fb43f4f7066716582f1226697d5bc375a06c89cac5fc9d"
     },
     "master/data/LangJumpRopePhase_Jpn.jsonl": {
       "bytes": 576,
@@ -684,8 +688,8 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     "master/data/LangLiveDialogueVoice_Jpn.jsonl": {
-      "bytes": 603262,
-      "sha256": "a51594dd13d01f30392cbf11b08ab285c7b31d1d772aef0d69c73b870754fac9"
+      "bytes": 611507,
+      "sha256": "19a97102f322043a0e093655b600fb6207cccc7861fb14af949faeca113ea860"
     },
     "master/data/LangLiveLeaderSkill_Jpn.jsonl": {
       "bytes": 0,
@@ -756,12 +760,12 @@
       "sha256": "1a5b1fddd4012ffc5de7a8815cab475e37baa24f8db3496e42cb879bea9fd3e9"
     },
     "master/data/LangMissionGroup_Jpn.jsonl": {
-      "bytes": 3996,
-      "sha256": "4ec170ebe3013b41cf2a72cb01fd27eeeeba8b598cfce5679290fb93285bb22e"
+      "bytes": 5274,
+      "sha256": "99d15ba6fb16c0002887daea418a74f10bf6420b6eb1fa692998919a1fbee9c8"
     },
     "master/data/LangMission_Jpn.jsonl": {
-      "bytes": 420524,
-      "sha256": "2d88b8a65a63485c7549cb46640b910f1d1cbc87c7105ec92fd490454c507247"
+      "bytes": 423205,
+      "sha256": "47692d0e251508b0b11a38371bf9c0e34d4ad779657dd6b15301db879e4b9dde"
     },
     "master/data/LangMusicCreativeChartTag_Jpn.jsonl": {
       "bytes": 827,
@@ -772,12 +776,12 @@
       "sha256": "55ba1b3c09313000a28d96f1a78db987d19073ee20b6d9d360ec50314cee9221"
     },
     "master/data/LangMusicMv_Jpn.jsonl": {
-      "bytes": 15685,
-      "sha256": "20e8aade8c65790a88debbba1befc45f8cd3b5772f09a6c55d8100b52bc4f5ff"
+      "bytes": 16073,
+      "sha256": "283fa6bd6fb8e3d168dc06fa704447995ed7f94b2ea7b24310135fc9763ba2ce"
     },
     "master/data/LangMusic_Jpn.jsonl": {
-      "bytes": 233894,
-      "sha256": "adbca5e4efc0e5add8e0e83e995fc3ae22ecf1e120d65ff8059e9a2d507fd890"
+      "bytes": 238149,
+      "sha256": "5db9e11bf887a13fa1ef07f39b024125b248e55292b0193a4f89592bd4f35b6d"
     },
     "master/data/LangParkAccessory_Jpn.jsonl": {
       "bytes": 24118,
@@ -848,16 +852,16 @@
       "sha256": "38c268a04990c4566d0960a2af8dd6964df533da316e399af6059acb5d12e5af"
     },
     "master/data/LangPoster_Jpn.jsonl": {
-      "bytes": 5494,
-      "sha256": "bf287ed76f1563965ba9744f277404cb232780d5a3524e69005b24758c750164"
+      "bytes": 6226,
+      "sha256": "146095ece91984e891c4a56cf65b5c6690dfa4a38781bb84337d2f6841cf0813"
     },
     "master/data/LangPreferenceCapacityLimit_Jpn.jsonl": {
       "bytes": 494,
       "sha256": "8695884dc92d138ccba3ff65af7a4078bd27461bf7f8677c992552dff0282e78"
     },
     "master/data/LangResourceObtainmentRoute_Jpn.jsonl": {
-      "bytes": 8394,
-      "sha256": "240508f141fd36653e948bfc189d2a324209229e0f8fc4f98419027bef17183f"
+      "bytes": 9435,
+      "sha256": "4a328b2e5ff8a5fe50e92997074de296d891a5912ca4269734744224c38e3b84"
     },
     "master/data/LangResourceTypeDetail_Jpn.jsonl": {
       "bytes": 7976,
@@ -872,8 +876,8 @@
       "sha256": "b83ab457331fe399a07976fa722d9341b6d30a0a0140d452818a4135723c9a5c"
     },
     "master/data/LangSdCostume_Jpn.jsonl": {
-      "bytes": 35925,
-      "sha256": "99611fee944924a2ba8d282716640f89c83cd488b4de6018b1afc22caadea88b"
+      "bytes": 36409,
+      "sha256": "b9b3dcf22d548d16c9b0a9e1dc60bf9a4654eba6bab73eef5642839d008c3359"
     },
     "master/data/LangSemiResourceTypeDetail_Jpn.jsonl": {
       "bytes": 1221,
@@ -936,16 +940,16 @@
       "sha256": "29f52b502471c1c70ef4ec1a7317e4cf44b397715f2b438589ac095bd9e091e8"
     },
     "master/data/LiveActiveSkill.jsonl": {
-      "bytes": 21926,
-      "sha256": "528300c3ca999581301ab29721b3e722fbb855c2b2e063d843d05aa294ad9df0"
+      "bytes": 22378,
+      "sha256": "4d47821c2c1db16428259406acedb337b42266caa3358dfafccfb1fdac72801d"
     },
     "master/data/LiveActiveSkillEffect.jsonl": {
       "bytes": 17551,
       "sha256": "8091bb6abfdea5115a2113c269b5e6015dcc4e6e8de5f6338d779f9d41f97a36"
     },
     "master/data/LiveActiveSkillLevel.jsonl": {
-      "bytes": 196817,
-      "sha256": "7053e41080433cf0c5b13babca37d1598bd4f01a93cb136e20959b6e390ddecb"
+      "bytes": 201099,
+      "sha256": "382fa751f623346c20a4e1a016fb1ae0be0255f847f0e92bd858c1e4aadd0817"
     },
     "master/data/LiveCombo.jsonl": {
       "bytes": 1336,
@@ -968,16 +972,16 @@
       "sha256": "9bc6a18911b86a18bd6aa17ba48decdf4a174bca35b1df5bd3d8bc767a4ae037"
     },
     "master/data/LiveDialogueVoice.jsonl": {
-      "bytes": 1092594,
-      "sha256": "ba27b64db37e6ffdac04cc2e53d3c727aa44b319a2c0dbe1d2ec83fc11c3a476"
+      "bytes": 1105874,
+      "sha256": "a9c087d5b0e861b227e4c4712563f9791c948ca439b3e0e4084c3ac41e8e37e4"
     },
     "master/data/LiveDialogueVoiceCharacter.jsonl": {
-      "bytes": 1543110,
-      "sha256": "8c692b3dccc0d106dd27699f7f28d6e39b6aecdb12b881e318b8c998f5ded644"
+      "bytes": 1559706,
+      "sha256": "1d110fae295529942be813c5fd8ed077f769fb818a6a757b047adea3f3b82502"
     },
     "master/data/LiveLeaderSkill.jsonl": {
-      "bytes": 72194,
-      "sha256": "48223bca4dd067313441196405af0c0138fb02df4cf3047a0c8b12cd57bcec0e"
+      "bytes": 74277,
+      "sha256": "d98bfba40c07c69dcf03d027fca452dbf44fe8a291b655741494598282f0ca97"
     },
     "master/data/LiveMultiFever.jsonl": {
       "bytes": 431,
@@ -1008,16 +1012,16 @@
       "sha256": "e9121e49fdf8bb16d220c92c08555f1e6a40dc979e6a31228c1890ca1076f624"
     },
     "master/data/LivePassiveSkill.jsonl": {
-      "bytes": 22080,
-      "sha256": "28c6238f13e8fdd0e2ca62055fc3f36ccc95dc5001c6438e3784c7570b0e6f6f"
+      "bytes": 22540,
+      "sha256": "ce692a44bb6294b4fe1ac05cc20a8b3647e978aaf91e0c75083df1630f939c0c"
     },
     "master/data/LivePassiveSkillEffect.jsonl": {
-      "bytes": 101887,
-      "sha256": "8c220b956dc4dd979d96a9c37c4ee31d77244e5a15aba4b5924e9b5983ecfe94"
+      "bytes": 103673,
+      "sha256": "e6ca4017c4a46edf8a561796a97b32d3b4d557edf1295b747599cbd8c0b40b32"
     },
     "master/data/LivePassiveSkillLevel.jsonl": {
-      "bytes": 173296,
-      "sha256": "232417db0631ff004278838d687db5d448d5123d8890642f02944a94f4052a57"
+      "bytes": 176936,
+      "sha256": "03238106ba7c246d620be8a9358703aa24e6bf4d9dbe1fbfd4cbf1a158710845"
     },
     "master/data/LiveRewardUpStaminaEffect.jsonl": {
       "bytes": 611,
@@ -1056,20 +1060,20 @@
       "sha256": "16f087bebd856cd9668cc06fabb22e38a7e02f844824d5dfa3e6f0f053a4005e"
     },
     "master/data/LiveSpecialCardDialogue.jsonl": {
-      "bytes": 82276,
-      "sha256": "d937e026d674fa8c5cbfff755178ceec9553a898887669a9a0c0419bf949c25e"
+      "bytes": 86904,
+      "sha256": "417aad949eb94cc2e8131aeda6fda63f74f6feed12be42d58076c8fadb322544"
     },
     "master/data/LiveSpecialCostumeDialogue.jsonl": {
-      "bytes": 80852,
-      "sha256": "3c28893505b9e5089eeaa5c53f5c822d53c958fdc0dd6917eeb1790c9a1629d1"
+      "bytes": 85400,
+      "sha256": "fe51e855f415b99d6eff31266936a0d77f2f1e57f0f3d37a78dc153dda382523"
     },
     "master/data/LiveSpecialSkill.jsonl": {
-      "bytes": 22080,
-      "sha256": "8edb08d555621df14d040cfa0b16fa2ec0fa9a5efe6977b4882f4a1db51d0ba2"
+      "bytes": 22540,
+      "sha256": "a9584522c75141b89b0a0e49331deeb5163c4125234c1ebd6de621911e56852d"
     },
     "master/data/LiveSpecialSkillLevel.jsonl": {
-      "bytes": 173919,
-      "sha256": "ad54c93ba2cfc9f2611e46ae5b503c1b01c8ada7a32907c053f35f11e62f659f"
+      "bytes": 178477,
+      "sha256": "f20de253a512cdab05a39cf911bfd0d329ef2dd823dccfb98014f1c66dc3a97d"
     },
     "master/data/LoadingDisplay.jsonl": {
       "bytes": 23496,
@@ -1128,48 +1132,48 @@
       "sha256": "337264e845dd328650c2134c66ff0e16ab8c5a668afed0cbb89dc495c7a745ab"
     },
     "master/data/Mission.jsonl": {
-      "bytes": 801489,
-      "sha256": "c7234c2add23f4d8ca5c7faa7998fc8606bdd58a9eea61ca41e89f61335c3e96"
+      "bytes": 811417,
+      "sha256": "b286fc34b9a6760ec7b930f2fed6a9d940077a0f1f8e7e551319bbe8c788984e"
     },
     "master/data/MissionGroup.jsonl": {
-      "bytes": 5269,
-      "sha256": "bbf92753f5501e4d34952e9a1a7cbdf432faa47ddd5b2e763252304a9be087c9"
+      "bytes": 6639,
+      "sha256": "d9eb1a63a56ce07df27d4cc7b439115f94faa14a96abe58da6b6ba213692017b"
     },
     "master/data/MissionPass.jsonl": {
-      "bytes": 22996,
-      "sha256": "dbdd40385277dd7570c05e568c68d60c7a3d6d6dfb63c411040d38de846aa7f9"
+      "bytes": 23881,
+      "sha256": "16505ac7794ed23c2ed67d16ba7ab0b726f295f6a884ce403e0bd2e76aee0678"
     },
     "master/data/MissionPassLevel.jsonl": {
-      "bytes": 69464,
-      "sha256": "827c3fce21916b1ec7c4e3c0a8b85153f90250389b4f9c8374f177221b916627"
+      "bytes": 85928,
+      "sha256": "0382b84a42069c8891a7ee585225efa03f499789b8158a6a01221d3f8b0ed178"
     },
     "master/data/MissionPassPoint.jsonl": {
-      "bytes": 388,
-      "sha256": "b3f778ddb1a9582d9af1ca9fdf4c4c59b81ecc17eb98bc563530e6ba59e12dea"
+      "bytes": 518,
+      "sha256": "e8e90273e1b9ac12772b5bd5f1ee07034e5154078bd4945e3d608ea4a7ee06fa"
     },
     "master/data/MissionProgress.jsonl": {
-      "bytes": 3757584,
-      "sha256": "dca0ba0b8c5459f3a595c2868e9cad6ad9ea9bcd07e6fdc3d8f29e11c7f2053b"
+      "bytes": 3775774,
+      "sha256": "6d598e41abfc0bf3844c0420b9bb31bbfcd81be45fc24b9716dce8347b0c6699"
     },
     "master/data/MissionTypeDefaultNavigation.jsonl": {
       "bytes": 13013,
       "sha256": "fa6ba917ed58848c2fec2bacb27e3d4763285ac15e0bdc605729bf5c240b3d7e"
     },
     "master/data/Music.jsonl": {
-      "bytes": 243306,
-      "sha256": "e4c1288096c77ac5d194c5a2050880cb05144fe0b91a81d0890dd322cebdc4db"
+      "bytes": 247524,
+      "sha256": "875eb3f0030234851aeb0d72bbf8cf135818948fbcc6fd95b1c3b9d0af9e38bb"
     },
     "master/data/MusicCreativeChartTag.jsonl": {
       "bytes": 1080,
       "sha256": "cc4eab5f48b1a21925d997ceef1893bb1fa56b16d746ccbc5c504e6188d6464a"
     },
     "master/data/MusicDifficulty.jsonl": {
-      "bytes": 128488,
-      "sha256": "f239501cd25854dd094dfae9cbf08154cb1854e82444c2603767c376f9249aa1"
+      "bytes": 130867,
+      "sha256": "64c4fda188644f2a7aae1847751090fbaf9b1f79fe2839e28a40ee456361e6ee"
     },
     "master/data/MusicDifficultyChart.jsonl": {
-      "bytes": 132319,
-      "sha256": "60b48a6e24b086d1f429f85715f47cc5d37735fa8b19adb580ff8d848d4b04bf"
+      "bytes": 134768,
+      "sha256": "5b7cfe5933aa318f91e67f54779aa39da4a80c9a0665478bb9abda244838e16d"
     },
     "master/data/MusicDifficultyConfiguration.jsonl": {
       "bytes": 252,
@@ -1180,16 +1184,16 @@
       "sha256": "3702a5b5232113b015624a2ed747ce77dd9652ef5aeb5cc75c6cf7fcdadc54ec"
     },
     "master/data/MusicMv.jsonl": {
-      "bytes": 90162,
-      "sha256": "f4af2417f390b85d0c00fec35fd2854a35ed7c4d7a9ebe8a6574e3e4186e8823"
+      "bytes": 92554,
+      "sha256": "d44890cd50a17b125883d37a6ab295f50da6da2830331e158e5a7e78b0958433"
     },
     "master/data/MusicMvCategory.jsonl": {
       "bytes": 687,
       "sha256": "b88722454d25a99bede96a351a74bcc26c1dc4d25619f3e9ce75ac39c4279106"
     },
     "master/data/MusicStartupNotification.jsonl": {
-      "bytes": 13509,
-      "sha256": "10191fceb7b6ca0c4e3700593a879cc115aaf03380b29d17f2c666d041abd567"
+      "bytes": 14277,
+      "sha256": "9ec393606cc19749784107ed5d587863f3a8e890e9e88a42a96bfbf15cda53b0"
     },
     "master/data/OctoSetting.jsonl": {
       "bytes": 190,
@@ -1320,8 +1324,8 @@
       "sha256": "c379af2edc0ffb570a1b47ab43ab85613ca0057be12f53ef5b7d3d8aebb47824"
     },
     "master/data/ParkQuest.jsonl": {
-      "bytes": 98236,
-      "sha256": "8ed353b135fa1930f0545cacec0bbff9ec86be4f9038cf7fa9ca13694612c25b"
+      "bytes": 98237,
+      "sha256": "d302bb607e06252de61e7aa4fc64ddd7b3124aa921d29e618ee0fe643946d5a5"
     },
     "master/data/ParkQuestChapter.jsonl": {
       "bytes": 11319,
@@ -1364,8 +1368,8 @@
       "sha256": "fe0ebced52faf60b4b794802fff39721230b0102ee83767a60d719f3d5b0ab8b"
     },
     "master/data/ParkQuestStep.jsonl": {
-      "bytes": 288903,
-      "sha256": "a553db0ab741f667318996b6aa8c0911d2a136bf4aaf09f51921fac6025868cc"
+      "bytes": 315748,
+      "sha256": "65e6ff2116cd606d35ff43ca6b8e414ba2b92d7809458a561e566b7593e01539"
     },
     "master/data/ParkQuestStepAction.jsonl": {
       "bytes": 362279,
@@ -1412,8 +1416,8 @@
       "sha256": "8209de6481a7796d7acde7d0167821913890abc3dd54f13eff79191db68cbdbd"
     },
     "master/data/Poster.jsonl": {
-      "bytes": 7533,
-      "sha256": "25f6350ec3308dd5e36477c97c1bca54f4ae0ae7315b5c3efcef0d3d5609a9d6"
+      "bytes": 8417,
+      "sha256": "43aec596c26ea6139efe38adffca08a44080dcdb6d95dfcb16baa04b27c5a8da"
     },
     "master/data/PosterCollectEffect.jsonl": {
       "bytes": 3828,
@@ -1424,8 +1428,8 @@
       "sha256": "7f07df9dc7126240a457602b4e39d9e81077d80d447441a1efdf0c99ffa73a75"
     },
     "master/data/ResourceObtainmentRoute.jsonl": {
-      "bytes": 51278,
-      "sha256": "69e29c0c675b5e908325fb1e6167577c8587c52cc9dd60d7aef8698ec6b2d1dc"
+      "bytes": 52857,
+      "sha256": "5ff040a069f3c17ed03057e976f51bcfe2a18de804ea140fec6e6cbd80ec44cd"
     },
     "master/data/ResourceTypeDetail.jsonl": {
       "bytes": 8695,
@@ -1436,8 +1440,8 @@
       "sha256": "4e896cae3e197a4eafa0601a47271f214d813803856dec2e862514fa347cde08"
     },
     "master/data/SdCostume.jsonl": {
-      "bytes": 101332,
-      "sha256": "36cbbab783a493b6990d47de3552f698ed3321f56dd9e1dcda33de7eef3a5aec"
+      "bytes": 102652,
+      "sha256": "b76c6735881178ca54749b5d502514847cce5edbe047f7dcc5961f7680dc1e66"
     },
     "master/data/SdCostumeHairAccessory.jsonl": {
       "bytes": 115128,
@@ -1528,12 +1532,12 @@
       "sha256": "7d18f8a1e182deb55bdf1e74afa85599846f2ddcd62e3eb12d71856d3cce0c74"
     },
     "master/data/Story.jsonl": {
-      "bytes": 32875,
-      "sha256": "09c5c40f399bba683680316e24bd07aec2dee5f2f6dae9eddc47f1a71338edf6"
+      "bytes": 34803,
+      "sha256": "aabc43017e64662ea89e87065ddeb520e9755b454f5ff4b2174e074365405c57"
     },
     "master/data/SystemSound.jsonl": {
-      "bytes": 40112,
-      "sha256": "5d515774d15e485c867dd7561d08c7941dac65f639d6ebaf13f55758e03506bf"
+      "bytes": 40123,
+      "sha256": "3407d0f438da56c700d22d98431d1e1ea6a2ad444b173ce0bb97bdf5eb044adc"
     },
     "master/data/SystemVoice.jsonl": {
       "bytes": 1582524,
@@ -1577,11 +1581,11 @@
     }
   },
   "generatedBy": "dreamverse-master-updater",
-  "masterVersion": "65badf8533aacbc04382f97f0f5f56740e761e6f5be6172d8440ae9061deebe7",
+  "masterVersion": "e1eea8627c36e512ed0f8f662d0d80e14b9000cb8facd546d38e492e91a3c528",
   "notices": {
     "notices/notices_jp.json": {
-      "bytes": 17079,
-      "sha256": "1bb988541b637c59f5f41990754dd3f234cf717052f8968990d4e50609580e12"
+      "bytes": 18136,
+      "sha256": "b3328dd72618803057e396efe265c275ad847094cc2f2d98576415d782fd7c4a"
     }
   },
   "region": "jp",

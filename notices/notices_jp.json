@@ -10,6 +10,28 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-news-gacha-pickup-261019-pre",
+     "title": "【予告】至福のシーサイドデイズガチャ開催！",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/d61161d2e37b4b5f434962211eb5e68f4b1e577b1bee3b0334eec6e91fa5edb4/index.html",
+     "banner_asset_id": "img_banner_full_gacha-pickup-261019",
+     "start_time": 1792317600000,
+     "start_time_utc": "2026-10-18T10:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-marathon_event-relay-003-pre",
+     "title": "【予告】スポットライトイベント「あふれる光と、渚のドレスコード」開催！",
+     "type": 2,
+     "type_name": "event",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/7c57d151c7860d6cfee2654fb92e365aeb234791f7b8b72d3ec29f4486489309/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-relay-003",
+     "start_time": 1792317600000,
+     "start_time_utc": "2026-10-18T10:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-marathon_event-normal-007",
      "title": "ポイントラリーイベント「彩れ♪サンシャインジャンボリー」開催！",
      "type": 2,
