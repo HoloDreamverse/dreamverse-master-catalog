@@ -21,6 +21,17 @@
      "external_url": ""
     },
     {
+     "id": "notice-news-info-other-261019",
+     "title": "運営チームからのお知らせ",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/996681df0f0b61466a8de292a9310a6c6e84a5e952b6c1fb2b988716a3ee70a0/index.html",
+     "banner_asset_id": "",
+     "start_time": 1792395000000,
+     "start_time_utc": "2026-10-19T07:30:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-marathon_event-relay-003-pre",
      "title": "【予告】スポットライトイベント「あふれる光と、渚のドレスコード」開催！",
      "type": 2,
@@ -297,7 +308,7 @@
      "title": "修正済みの不具合",
      "type": 100,
      "type_name": "bug",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/25feace90fa4677e138fe3be81f690fbfdc7788056ac4262c34b6e0e34f236ea/index.html",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/24ad03ee9191ddfcf764c0910a968dad325383349305cc6005c8f41b6abddfd7/index.html",
      "banner_asset_id": "",
      "start_time": 1787875200000,
      "start_time_utc": "2026-08-28T00:00:00Z",
