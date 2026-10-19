@@ -21,6 +21,17 @@
      "external_url": ""
     },
     {
+     "id": "notice-marathon_event-relay-003",
+     "title": "スポットライトイベント「あふれる光と、渚のドレスコード」開催！",
+     "type": 2,
+     "type_name": "event",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/4a6aaadac5519cfb13269a42c9f13ef3f5e30235f322d59b9b3171eb866a3b40/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-relay-003",
+     "start_time": 1792407600000,
+     "start_time_utc": "2026-10-19T11:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-info-other-261019",
      "title": "運営チームからのお知らせ",
      "type": 4,
@@ -29,17 +40,6 @@
      "banner_asset_id": "",
      "start_time": 1792395000000,
      "start_time_utc": "2026-10-19T07:30:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-marathon_event-relay-003-pre",
-     "title": "【予告】スポットライトイベント「あふれる光と、渚のドレスコード」開催！",
-     "type": 2,
-     "type_name": "event",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/7c57d151c7860d6cfee2654fb92e365aeb234791f7b8b72d3ec29f4486489309/index.html",
-     "banner_asset_id": "img_banner_full_marathon_event-relay-003",
-     "start_time": 1792317600000,
-     "start_time_utc": "2026-10-18T10:00:00Z",
      "external_url": ""
     },
     {
@@ -62,17 +62,6 @@
      "banner_asset_id": "",
      "start_time": 1792141200000,
      "start_time_utc": "2026-10-16T09:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-marathon_event-normal-006",
-     "title": "スコアチャレンジイベント「ゆずれぬオーシャンチェイス」開催！",
-     "type": 2,
-     "type_name": "event",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/a7f9265be92b415d8357971308c1b4994b4e72e38e26d6bbf5c9a432c31d3cc8/index.html",
-     "banner_asset_id": "img_banner_full_marathon_event-normal-006",
-     "start_time": 1791342000000,
-     "start_time_utc": "2026-10-07T03:00:00Z",
      "external_url": ""
     },
     {
