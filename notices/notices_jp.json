@@ -87,17 +87,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-login_bonus-event-261029",
-     "title": "ハロウィンログインボーナス開催！",
-     "type": 6,
-     "type_name": "campaign",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/4e6f9600c72d4766974fc2f64807b6161de6e7d93ee80faccda53f93b9cddce6/index.html",
-     "banner_asset_id": "img_banner_full_login-bonus-event-261029",
-     "start_time": 1793239200000,
-     "start_time_utc": "2026-10-29T02:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-info-update-261028",
      "title": "Ver.1.2.100アップデートのお知らせ",
      "type": 3,
