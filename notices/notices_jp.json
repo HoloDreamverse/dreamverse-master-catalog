@@ -1,7 +1,7 @@
 {
  "format": "hololive-dreams-notices",
  "region": "jp",
- "app_version": "1.2.1",
+ "app_version": "1.2.101",
  "categories": [
   {
    "id": "notice_category-news",
@@ -10,36 +10,113 @@
    "display_type_name": "normal",
    "notices": [
     {
-     "id": "notice-news-gacha-pickup-261019",
-     "title": "至福のシーサイドデイズガチャ開催！",
+     "id": "notice-news-birthday-chr-00030-261115",
+     "title": "Happy Birthday！ 雪花ラミィ",
+     "type": 6,
+     "type_name": "campaign",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/585f8857e7490e8ea570a903ce97da22c4c1556e2feb02346af03e61ebab11e3/index.html",
+     "banner_asset_id": "img_banner_full_birthday-chr-00030-261115",
+     "start_time": 1794668400000,
+     "start_time_utc": "2026-11-14T15:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gacha-pickup-261114",
+     "title": "うららかな秋にお出かけを♪ガチャ開催！",
      "type": 1,
      "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/0c453fe32063d47dd70aa11aba4ca2de1ec51bb9187b21ae7cfa44b97f4e73e5/index.html",
-     "banner_asset_id": "img_banner_full_gacha-pickup-261019",
-     "start_time": 1792375200000,
-     "start_time_utc": "2026-10-19T02:00:00Z",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/d09baa407eacfee87e6d985597f46825da2a727dd8dde6a63a8dbbac25873d1c/index.html",
+     "banner_asset_id": "img_banner_full_gacha-pickup-261114",
+     "start_time": 1794621600000,
+     "start_time_utc": "2026-11-14T02:00:00Z",
      "external_url": ""
     },
     {
-     "id": "notice-marathon_event-relay-003",
-     "title": "スポットライトイベント「あふれる光と、渚のドレスコード」開催！",
+     "id": "notice-marathon_event-relay-004",
+     "title": "スポットライトイベント「木枯らしウォークアラウンド♪」開催！",
      "type": 2,
      "type_name": "event",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/4a6aaadac5519cfb13269a42c9f13ef3f5e30235f322d59b9b3171eb866a3b40/index.html",
-     "banner_asset_id": "img_banner_full_marathon_event-relay-003",
-     "start_time": 1792407600000,
-     "start_time_utc": "2026-10-19T11:00:00Z",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/a606b7a3888e7e9fa85853669e000621e4666146119c9a2e3cb59f3278a198af/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-relay-004",
+     "start_time": 1794654000000,
+     "start_time_utc": "2026-11-14T11:00:00Z",
      "external_url": ""
     },
     {
-     "id": "notice-news-shop-membership-261022-pre",
-     "title": "【予告】メンバーシップに「称号」追加！",
+     "id": "notice-marathon_event-normal-009",
+     "title": "スコアチャレンジイベント「秋の夜長に、ひとつ屋根の下」開催！",
+     "type": 2,
+     "type_name": "event",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/752d6985aefb77d800ed35d4f055db5d14af992ada417c7e15559fed14260478/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-normal-009",
+     "start_time": 1793934000000,
+     "start_time_utc": "2026-11-06T03:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-mv-release",
+     "title": "一部楽曲のMV追加のお知らせ",
      "type": 4,
      "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/84e0b20cadff2cc3d18ad63c79c0439228d4b962fcc1ff7ab93a5ac7e9dcd4f8/index.html",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/a725fbc08061d103cbc869575eab9deedbdf803b323fc5ed9cc8fa58c3ecaab5/index.html",
+     "banner_asset_id": "",
+     "start_time": 1785200400000,
+     "start_time_utc": "2026-07-28T01:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-shop-missionpass-261101",
+     "title": "「ミッションパス2026年11月」開催！",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/b7e4b58754b89cbcaf365e29f68d51a295ab630327c72609ca1e178adef6ae57/index.html",
+     "banner_asset_id": "img_banner_full_shop-missionpass-261101",
+     "start_time": 1793476800000,
+     "start_time_utc": "2026-10-31T20:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-shop-membership-261101",
+     "title": "メンバーシップに「称号」追加！",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/a1600d5717e4f638d24d4a02015d1e0e924df4030ba72e5a39ace85800c1c59a/index.html",
      "banner_asset_id": "img_banner_full_shop-membership-261101",
-     "start_time": 1792634400000,
-     "start_time_utc": "2026-10-22T02:00:00Z",
+     "start_time": 1793476800000,
+     "start_time_utc": "2026-10-31T20:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-login_bonus-event-261029",
+     "title": "ハロウィンログインボーナス開催！",
+     "type": 6,
+     "type_name": "campaign",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/4e6f9600c72d4766974fc2f64807b6161de6e7d93ee80faccda53f93b9cddce6/index.html",
+     "banner_asset_id": "img_banner_full_login-bonus-event-261029",
+     "start_time": 1793239200000,
+     "start_time_utc": "2026-10-29T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-update-261028",
+     "title": "Ver.1.2.100アップデートのお知らせ",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/323cbfa46336ffe7fb213b95fbec9b163f68894e847082bf09b6ec64d8722d58/index.html",
+     "banner_asset_id": "img_banner_full_update-info",
+     "start_time": 1793163600000,
+     "start_time_utc": "2026-10-28T05:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-survey-261027",
+     "title": "アンケートにご協力いただいたお礼の配布について",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/b4badce79d0ffd100f95f1c2ad2785bf8129729f5c8d66b6380bb90274c5d7b4/index.html",
+     "banner_asset_id": "img_banner_full_info-survey-260828",
+     "start_time": 1793156400000,
+     "start_time_utc": "2026-10-28T03:00:00Z",
      "external_url": ""
     },
     {
@@ -51,17 +128,6 @@
      "banner_asset_id": "",
      "start_time": 1792395000000,
      "start_time_utc": "2026-10-19T07:30:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-info-daily_quest_update-261016",
-     "title": "デイリークエストの報酬に関して",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/1e93ab22d7a874c790f036a33cebb47d35e6484085eb48f641738c817eda78dd/index.html",
-     "banner_asset_id": "",
-     "start_time": 1792141200000,
-     "start_time_utc": "2026-10-16T09:00:00Z",
      "external_url": ""
     },
     {
@@ -82,39 +148,6 @@
      "type_name": "update",
      "detail_url": "https://static.game-hololive-dreams.com/html/notice/0b74dc08d730e89e4b5067348be651982eb635838ccf8b1a81d3282f95a4ac82/index.html",
      "banner_asset_id": "img_banner_full_area-a03",
-     "start_time": 1790647200000,
-     "start_time_utc": "2026-09-29T02:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-shop-missionpass-261001",
-     "title": "「ミッションパス2026年10月」開催！",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/0dda8997debf38e7e9c914385f70888479f426ded040fb9563e8a076e9e2c1f6/index.html",
-     "banner_asset_id": "img_banner_full_shop-missionpass-261001",
-     "start_time": 1790798400000,
-     "start_time_utc": "2026-09-30T20:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-shop-membership-261001",
-     "title": "メンバーシップに「エモート」追加！",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/d249941cbf7fb8f5c116c01a66ff68fe2a5e728ff40c35743a8a4faf27c9025b/index.html",
-     "banner_asset_id": "img_banner_full_shop-membership-261001",
-     "start_time": 1790798400000,
-     "start_time_utc": "2026-09-30T20:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-mission-area03-release-260929",
-     "title": "新エリア追加記念ミッション開催！",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/bfb035f37c8a4af843c642323e08ee642039a55b5424a72ed5e68f5f1d638c9b/index.html",
-     "banner_asset_id": "img_banner_full_event-mission-area03-release-260929",
      "start_time": 1790647200000,
      "start_time_utc": "2026-09-29T02:00:00Z",
      "external_url": ""
@@ -194,17 +227,6 @@
      "banner_asset_id": "img_banner_full_update-info",
      "start_time": 1785382200000,
      "start_time_utc": "2026-07-30T03:30:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-info-mv-release",
-     "title": "一部楽曲のMV追加のお知らせ",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/12a2048d4981704ed5584c584fcd446c5caa01d826e50e19177086f1ce647107/index.html",
-     "banner_asset_id": "",
-     "start_time": 1785200400000,
-     "start_time_utc": "2026-07-28T01:00:00Z",
      "external_url": ""
     },
     {
@@ -293,22 +315,22 @@
    "display_type_name": "normal",
    "notices": [
     {
-     "id": "notice-mal-list-fixed",
-     "title": "修正済みの不具合",
+     "id": "notice-mal-list-confirmed",
+     "title": "現在確認している不具合",
      "type": 100,
      "type_name": "bug",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/24ad03ee9191ddfcf764c0910a968dad325383349305cc6005c8f41b6abddfd7/index.html",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/e784dc4dc878cf9255325eb5597b639d7b63b2136b651c6d0c0a6cbe6c07888b/index.html",
      "banner_asset_id": "",
      "start_time": 1787875200000,
      "start_time_utc": "2026-08-28T00:00:00Z",
      "external_url": ""
     },
     {
-     "id": "notice-mal-list-confirmed",
-     "title": "現在確認している不具合",
+     "id": "notice-mal-list-fixed",
+     "title": "修正済みの不具合",
      "type": 100,
      "type_name": "bug",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/7a4efcfb7671b1e549e23af1c0ec476554f099afbd25b9551232275accb3ca55/index.html",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/39fbd59c0c9bdc44b82957b6efcd36d37b61307c774bada73e4ce9aa7d438eed/index.html",
      "banner_asset_id": "",
      "start_time": 1787875200000,
      "start_time_utc": "2026-08-28T00:00:00Z",
