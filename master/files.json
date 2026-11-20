@@ -9,6 +9,10 @@
       "bytes": 13287202,
       "sha256": "5e0276ef682a48136ddd5d0010baeeb423ca42a956d221e4e3b7508726508357"
     },
+    "catalog/catalog_jp_rev115.redacted.json": {
+      "bytes": 13295336,
+      "sha256": "b680a93ff28b2f0aef578d69d9a69b91f5d7150fdb23a990b8249781a3cd43c3"
+    },
     "catalog/catalog_jp_rev69.redacted.json": {
       "bytes": 11027436,
       "sha256": "c3231f235a5d4f855c0c8f241150c1d00b5842a3d138c6d152af5f3d797a2f03"
@@ -1588,8 +1592,8 @@
   "masterVersion": "1e7e0e9790e0d2e27712c5eb3f71470230fa977f9b75d7c8fa7b2a7dad3c292d",
   "notices": {
     "notices/notices_jp.json": {
-      "bytes": 14938,
-      "sha256": "1ab8e3bdc44992b2ac9b1dff5b852745912bbb55bbf712898c8ed66f184e71d7"
+      "bytes": 16065,
+      "sha256": "78d1fa7867eeff3d8bd01db6614bc48640233132b7a2a2b3bd0b5f161c49b2f6"
     }
   },
   "region": "jp",
