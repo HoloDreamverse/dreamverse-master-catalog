@@ -1,10 +1,10 @@
 {
   "appVersion": "1.2.101",
-  "catalogRevision": 115,
+  "catalogRevision": 116,
   "filesManifest": {
-    "bytes": 63053,
+    "bytes": 63217,
     "path": "master/files.json",
-    "sha256": "17278f00453e5d50bffa41c1b5703ab08d9fd015dd0295208399a4b83b76cb88"
+    "sha256": "3246acd82cdcf7f5de86bd577f4db78b6ba657f00e86fe41c1b63c5fb1de2876"
   },
   "masterVersion": "1e7e0e9790e0d2e27712c5eb3f71470230fa977f9b75d7c8fa7b2a7dad3c292d",
   "package": null,

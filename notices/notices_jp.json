@@ -10,6 +10,17 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-news-info-stream-123",
+     "title": "ホロドリ公式特番が放送決定！",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/c5389ae4e75e94baa2ee334bcdc0651784724524aafb1bce83e4c276aef9c81e/index.html",
+     "banner_asset_id": "img_banner_full_info-stream-123",
+     "start_time": 1795424400000,
+     "start_time_utc": "2026-11-23T09:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-gift-gp_bestgame-261120",
      "title": "Google Play ベスト オブ 2026「ベストゲーム」受賞！",
      "type": 4,
@@ -327,7 +338,7 @@
      "title": "運営チームからのお知らせ",
      "type": 4,
      "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/8cfaada5b9c3c249319e1a9f4378b21b6f35885bd7f33be2dedff86fdb17afc9/index.html",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/254eaabc84e9f3f4bcca915eb28a85f5871fccffbbf2a44764eeb1f167f55a39/index.html",
      "banner_asset_id": "",
      "start_time": 1795147200000,
      "start_time_utc": "2026-11-20T04:00:00Z",
