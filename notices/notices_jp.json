@@ -10,6 +10,17 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-news-birthday-chr-00022-261124",
+     "title": "Happy Birthday！ 白銀ノエル",
+     "type": 6,
+     "type_name": "campaign",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/86ba51e092db33d764cdf25a9f7eee1b4a95ccd9d00c2750adbfebb22f474876/index.html",
+     "banner_asset_id": "img_banner_full_birthday-chr-00022-261124",
+     "start_time": 1795446000000,
+     "start_time_utc": "2026-11-23T15:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-info-stream-123",
      "title": "ホロドリ公式特番が放送決定！",
      "type": 4,
