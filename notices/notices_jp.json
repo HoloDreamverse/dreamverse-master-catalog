@@ -10,6 +10,61 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-news-minigame-shogi-261124-pre",
+     "title": "【予告】新ミニゲーム「ぷかぷかファイト」開幕！",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/9a8150c1d3f689cdee302d87d50ed09cfa97f903a6d02a2dcfaf4d47ab3b90b9/index.html",
+     "banner_asset_id": "img_banner_full_minigame-shogi-261125",
+     "start_time": 1795528800000,
+     "start_time_utc": "2026-11-24T14:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-content-live_tower-261124-pre",
+     "title": "【予告】新コンテンツ「チャレンジライブ」登場！",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/10818543b83a64e7e3c49c505c19d4855c4edb198eac761ccd3d528ab45cfd6d/index.html",
+     "banner_asset_id": "img_banner_full_content-live-tower-261125",
+     "start_time": 1795528800000,
+     "start_time_utc": "2026-11-24T14:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gacha-pickup-261126-pre",
+     "title": "【予告】初回10連無料！心舞うクリスマスモーメントガチャ開催！",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/92e125adde933d026d39739d4de4afa2d82ca81b78a1d27eeed8432f186c74f1/index.html",
+     "banner_asset_id": "img_banner_full_gacha-pickup-261126-free",
+     "start_time": 1795528800000,
+     "start_time_utc": "2026-11-24T14:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-marathon_event-normal-010-pre",
+     "title": "【予告】ポイントラリーイベント「童心踊るTwinkle Night」開催！",
+     "type": 2,
+     "type_name": "event",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/478c5b833d676116e1f01088dae1551655a099a0eff8579baa1d92e7b03bd25d/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-normal-010",
+     "start_time": 1795528800000,
+     "start_time_utc": "2026-11-24T14:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-maintenance-261124",
+     "title": "メンテナンスのお知らせ",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/0a851f1ce2cf0cae3b7ff21d87a1e5ac0e207dcd262531375ea396190b58abe8/index.html",
+     "banner_asset_id": "img_banner_full_maintenance-info",
+     "start_time": 1795528800000,
+     "start_time_utc": "2026-11-24T14:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-birthday-chr-00022-261124",
      "title": "Happy Birthday！ 白銀ノエル",
      "type": 6,
@@ -18,17 +73,6 @@
      "banner_asset_id": "img_banner_full_birthday-chr-00022-261124",
      "start_time": 1795446000000,
      "start_time_utc": "2026-11-23T15:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-info-stream-123",
-     "title": "ホロドリ公式特番が放送決定！",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/c5389ae4e75e94baa2ee334bcdc0651784724524aafb1bce83e4c276aef9c81e/index.html",
-     "banner_asset_id": "img_banner_full_info-stream-123",
-     "start_time": 1795424400000,
-     "start_time_utc": "2026-11-23T09:00:00Z",
      "external_url": ""
     },
     {
@@ -293,17 +337,6 @@
      "banner_asset_id": "img_banner_full_hololive-pass-release",
      "start_time": 1784772000000,
      "start_time_utc": "2026-07-23T02:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-gacha-common-001",
-     "title": "ホロドリガチャ開催",
-     "type": 1,
-     "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/319a9037398310a9f176fc8d11d8090e3f0f55fa3d0eb4f07226d2fa64cf91f9/index.html",
-     "banner_asset_id": "img_banner_full_gacha-common-001",
-     "start_time": 1784685600000,
-     "start_time_utc": "2026-07-22T02:00:00Z",
      "external_url": ""
     }
    ]
